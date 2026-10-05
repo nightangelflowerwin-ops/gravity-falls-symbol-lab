@@ -1,0 +1,590 @@
+{
+  "title": "Brave New World and the artwork",
+  "reviewed": "2026 10 05",
+  "scope": "All eighteen chapters of the Huxley.net transcription were read. Chapter body text was retained privately for review; navigation was excluded from searches. This is one web transcription, not a collation of printed editions. Original authorial intent, artist attribution and cipher keys remain unverified.",
+  "conclusion": "The combined title and exact Order and Stability phrase support a deliberate Huxley reference as a strong inference. The novel supplies political context and several comparison leads, but no verified geometric glyph mapping or numerical extraction rule.",
+  "comparisons": [
+    {
+      "id": "B01",
+      "title": "Order and Stability",
+      "strength": "Direct wording",
+      "chapter": 10,
+      "artwork": "Yellow writing at the top reads Order and stability.",
+      "book": "The Director uses Order and Stability while declaring Bernard an enemy of the social system.",
+      "assessment": "Exact phrase match, case normalized. It was already recorded in the earlier source comparison; the full novel review strengthens its context, not its novelty.",
+      "url": "https://www.huxley.net/bnw/ten.html"
+    },
+    {
+      "id": "B02",
+      "title": "The title and its irony",
+      "strength": "Direct wording",
+      "chapter": 8,
+      "artwork": "WELCOME TO THE BRAVE NEW WORLD is formed from small transaction related writing.",
+      "book": "John repeats the title phrase from Shakespeare while imagining a wonderful civilization.",
+      "assessment": "Direct title phrase overlap. Later uses in chapters 11 and 15 turn admiration into disgust and then resolve to act. This supports an ironic political reading, not a book cipher.",
+      "url": "https://www.huxley.net/bnw/eight.html"
+    },
+    {
+      "id": "B03",
+      "title": "Monuments and erased history",
+      "strength": "Specific parallel",
+      "chapter": 3,
+      "artwork": "A defaced statue stands opposite the Statue of Liberty; a pyramid appears in the seal.",
+      "book": "Mond describes a campaign against the past, destroyed monuments and forgotten pyramids.",
+      "assessment": "The overlap joins monument imagery to historical erasure. The novel does not name this statue, Leopold, or the US seal. Author intent remains unverified.",
+      "url": "https://www.huxley.net/bnw/three.html"
+    },
+    {
+      "id": "B04",
+      "title": "The disc topped tower",
+      "strength": "Specific parallel",
+      "chapter": 4,
+      "artwork": "The artwork depicts Seattle’s Space Needle.",
+      "book": "The Charing T Tower is described as a slender stalk carrying a concrete disc.",
+      "assessment": "A specific shape analogy. The text describes London, not Seattle; it cannot by itself identify a location or symbol value.",
+      "url": "https://www.huxley.net/bnw/four.html"
+    },
+    {
+      "id": "B05",
+      "title": "Policing a confrontation",
+      "strength": "Specific parallel",
+      "chapter": 15,
+      "artwork": "The image calls for an end to police brutality and depicts surveillance equipment.",
+      "book": "Police suppress a confrontation using gas, anaesthetic water pistols and a synthetic calming speech.",
+      "assessment": "Strong scene level thematic comparison. The novel’s methods differ from the real violence referenced by the artwork; the two events are not equivalent.",
+      "url": "https://www.huxley.net/bnw/fifteen.html"
+    },
+    {
+      "id": "B06",
+      "title": "Inability to breathe",
+      "strength": "Specific parallel",
+      "chapter": 14,
+      "artwork": "George Floyd’s clothing bears I can’t BREATHE.",
+      "book": "Linda’s fatal episode includes failed breathing and hands reaching to her throat.",
+      "assessment": "A concrete bodily parallel in a scene about death and institutional responses. It does not claim the novel predicted Floyd’s death or that his portrait represents Linda.",
+      "url": "https://www.huxley.net/bnw/fourteen.html"
+    },
+    {
+      "id": "B07",
+      "title": "Surveillance and spectacle",
+      "strength": "Specific parallel",
+      "chapter": 18,
+      "artwork": "Cameras and other monitoring equipment occupy the upper right.",
+      "book": "A photographer secretly records John with cameras and hidden microphones, then turns his suffering into mass entertainment.",
+      "assessment": "Closer to media intrusion than a simple claim that the novel depicts universal camera surveillance. This distinction matters when comparing it with other dystopias.",
+      "url": "https://www.huxley.net/bnw/eighteen.html"
+    },
+    {
+      "id": "B08",
+      "title": "Freedom versus managed stability",
+      "strength": "Thematic",
+      "chapter": 16,
+      "artwork": "The Statue of Liberty and STOP protest graphic oppose the order slogan.",
+      "book": "Mond argues that liberty, serious art and unrestricted science jeopardize stability.",
+      "assessment": "A strong thematic opposition already supported by B01. It does not supply a substitution alphabet.",
+      "url": "https://www.huxley.net/bnw/sixteen.html"
+    },
+    {
+      "id": "B09",
+      "title": "Race and imposed hierarchy",
+      "strength": "Thematic",
+      "chapter": 11,
+      "artwork": "BLM slogans and Floyd’s portrait foreground racial injustice.",
+      "book": "The factory and entertainment scenes use racialized hierarchy and stereotypes.",
+      "assessment": "Relevant critical comparison. The novel’s caste categories and historical vocabulary are not direct equivalents of the artwork’s modern claims.",
+      "url": "https://www.huxley.net/bnw/eleven.html"
+    },
+    {
+      "id": "B10",
+      "title": "The weekday lead",
+      "strength": "Weak lead",
+      "chapter": 7,
+      "artwork": "The existing annotation above Trump reads TUESDAY; it remains a cipher reading hypothesis.",
+      "book": "Linda recalls a particular tower being illuminated on Tuesdays and Fridays.",
+      "assessment": "A testable weekday and tower pairing, but the building is an Abortion Centre in Chelsea, not the Space Needle. Chapter 11 also mentions Tuesday, so the occurrence is not unique.",
+      "url": "https://www.huxley.net/bnw/seven.html"
+    },
+    {
+      "id": "B11",
+      "title": "Twelve around a circle",
+      "strength": "Weak lead",
+      "chapter": 5,
+      "artwork": "The artwork has a clock; the user reports the candidate artist name Charly Palmer, six plus six letters.",
+      "book": "A Solidarity Service seats twelve participants around a circular table.",
+      "assessment": "A numerical and geometric resemblance. The artwork does not visibly show twelve ritual participants. Counting a reported name does not verify the creator, select this passage or define an operation.",
+      "url": "https://www.huxley.net/bnw/five.html"
+    },
+    {
+      "id": "B12",
+      "title": "Question marks as labels",
+      "strength": "Weak lead",
+      "chapter": 1,
+      "artwork": "Red question marks appear near the presidential figures and Liberty date.",
+      "book": "The hatchery assigns a T, a circle or a question mark to three reproductive categories.",
+      "assessment": "A documented alternative function for simple signs. The book’s question mark is black on white; neither color nor context matches closely enough to assign artwork glyph values.",
+      "url": "https://www.huxley.net/bnw/one.html"
+    },
+    {
+      "id": "B13",
+      "title": "Greek letter categories",
+      "strength": "Weak lead",
+      "chapter": 1,
+      "artwork": "Some geometric marks resemble familiar letters or runes.",
+      "book": "The population is divided into Alpha, Beta, Gamma, Delta and Epsilon castes.",
+      "assessment": "The terminology suggests reviewing Greek forms as an independent comparison. It does not demonstrate that the drawing encodes Greek, nor that every triangle is Delta.",
+      "url": "https://www.huxley.net/bnw/one.html"
+    },
+    {
+      "id": "B14",
+      "title": "Seed terminology",
+      "strength": "Weak lead",
+      "chapter": 8,
+      "artwork": "SEED PHRASE is visible in the title background.",
+      "book": "A creation story discusses seeds of living beings and the world.",
+      "assessment": "Literal seed vocabulary has a different meaning from cryptographic recovery words. Chapter 18 also mentions twenty four seed packets. Neither reference specifies a phrase length or extraction rule.",
+      "url": "https://www.huxley.net/bnw/eight.html"
+    },
+    {
+      "id": "B15",
+      "title": "Pot imagery and the Latin footer",
+      "strength": "Weak lead",
+      "chapter": 8,
+      "artwork": "The faint Latin footer invokes a pot and kettle; its exact reading remains under review.",
+      "book": "John learns to build a clay pot, initially shaping its base as a moon.",
+      "assessment": "A loose vocabulary connection to the footer and clock’s moon annotation. The novel does not give the artwork’s Latin proverb or a rule joining these elements.",
+      "url": "https://www.huxley.net/bnw/eight.html"
+    },
+    {
+      "id": "B16",
+      "title": "Compass directions and reversal",
+      "strength": "Weak lead",
+      "chapter": 18,
+      "artwork": "The clock and seal invite orientation inspection.",
+      "book": "The closing scene describes feet turning through compass directions and reversing.",
+      "assessment": "An orientation lead only. There is no established correspondence to clock hands, chapter positions or glyph rotations. No instruction to reverse all text is justified.",
+      "url": "https://www.huxley.net/bnw/eighteen.html"
+    },
+    {
+      "id": "B17",
+      "title": "Health and biological control",
+      "strength": "Thematic",
+      "chapter": 1,
+      "artwork": "The upper left group wears masks beside a COVID chart.",
+      "book": "The hatchery manipulates development, oxygen and immunization.",
+      "assessment": "A broad health and control theme, not a specific COVID reference. A 1932 novel cannot literally name this 2020 event.",
+      "url": "https://www.huxley.net/bnw/one.html"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Hatchery and hierarchy",
+      "review": "Engineered reproduction, caste assignment and Henry Foster introduce a society organized around stability. The labels and oxygen deprivation offer comparison leads, not a recovered symbol key.",
+      "url": "https://www.huxley.net/bnw/one.html"
+    },
+    {
+      "chapter": 2,
+      "title": "Conditioning and repetition",
+      "review": "Children learn prejudices through shocks and repeated sleep lessons. This parallels social control broadly; it does not explain any particular geometric sign.",
+      "url": "https://www.huxley.net/bnw/two.html"
+    },
+    {
+      "chapter": 3,
+      "title": "History and monuments",
+      "review": "Mond describes suppressing history, removing monuments and replacing force with conditioning. Interwoven conversations show consumerism and conformity.",
+      "url": "https://www.huxley.net/bnw/three.html"
+    },
+    {
+      "chapter": 4,
+      "title": "Architecture and propaganda",
+      "review": "Foster flies over a disc topped tower on a narrow stalk. Bernard visits propaganda offices and a writer who wants meaningful expression.",
+      "url": "https://www.huxley.net/bnw/four.html"
+    },
+    {
+      "chapter": 5,
+      "title": "Twelve in a circle",
+      "review": "Foster discusses material recovery after cremation. Bernard attends a twelve person circular ritual but remains emotionally separate.",
+      "url": "https://www.huxley.net/bnw/five.html"
+    },
+    {
+      "chapter": 6,
+      "title": "Freedom and exclusion",
+      "review": "Bernard questions conditioned happiness and receives a threat of exile. The Reservation is separated by an electrified boundary.",
+      "url": "https://www.huxley.net/bnw/six.html"
+    },
+    {
+      "chapter": 7,
+      "title": "Two societies",
+      "review": "The visitors encounter ritual violence and Linda. She recalls a tower illuminated on Tuesdays and Fridays. Differences in bodily age, cleanliness and beliefs dominate.",
+      "url": "https://www.huxley.net/bnw/seven.html"
+    },
+    {
+      "chapter": 8,
+      "title": "Language and inherited stories",
+      "review": "John learns written language, Shakespeare and creation narratives. His excitement at visiting London gives the title phrase an initially hopeful meaning.",
+      "url": "https://www.huxley.net/bnw/eight.html"
+    },
+    {
+      "chapter": 9,
+      "title": "Access and private desire",
+      "review": "Bernard obtains permission to bring John and Linda to London. John enters the sleeping Lenina’s room. No specific new glyph parallel was identified.",
+      "url": "https://www.huxley.net/bnw/nine.html"
+    },
+    {
+      "chapter": 10,
+      "title": "Order and Stability",
+      "review": "The Director condemns Bernard’s dissent using the same three word phrase shown in the artwork. His public authority collapses when his parenthood is exposed.",
+      "url": "https://www.huxley.net/bnw/ten.html"
+    },
+    {
+      "chapter": 11,
+      "title": "Spectacle and racial hierarchy",
+      "review": "John encounters factories, education and entertainment. Racial stereotypes appear in a film. Bernard boasts of encounters including Tuesday; there is no unique weekday instruction.",
+      "url": "https://www.huxley.net/bnw/eleven.html"
+    },
+    {
+      "chapter": 12,
+      "title": "Censorship and poetry",
+      "review": "Mond suppresses a scientific paper; Helmholtz’s poem causes trouble. Shakespeare produces a connection between readers but also exposes their cultural differences.",
+      "url": "https://www.huxley.net/bnw/twelve.html"
+    },
+    {
+      "chapter": 13,
+      "title": "Misunderstanding and coercion",
+      "review": "John and Lenina interpret love and duty differently; the conflict becomes violent. Foster appears, but no identifiable corresponding portrait is established.",
+      "url": "https://www.huxley.net/bnw/thirteen.html"
+    },
+    {
+      "chapter": 14,
+      "title": "Breath and grief",
+      "review": "Linda dies while unable to draw breath. John’s distress conflicts with the institution’s emotional conditioning and indifference to individual loss.",
+      "url": "https://www.huxley.net/bnw/fourteen.html"
+    },
+    {
+      "chapter": 15,
+      "title": "Dissent and policing",
+      "review": "John disrupts drug distribution. Police use airborne drugs, anaesthetic pistols and a prerecorded calming speech to suppress the resulting confrontation.",
+      "url": "https://www.huxley.net/bnw/fifteen.html"
+    },
+    {
+      "chapter": 16,
+      "title": "Stability at a cost",
+      "review": "Mond defends caste hierarchy, censorship and restricted science. Independent people are exiled; liberty and art are treated as threats to the system.",
+      "url": "https://www.huxley.net/bnw/sixteen.html"
+    },
+    {
+      "chapter": 17,
+      "title": "Freedom and discomfort",
+      "review": "John challenges a society that avoids pain and spiritual questions. Foster’s monetary cost example does not establish a numerical extraction rule.",
+      "url": "https://www.huxley.net/bnw/seventeen.html"
+    },
+    {
+      "chapter": 18,
+      "title": "Cameras and spectators",
+      "review": "John retreats, is secretly filmed, attracts spectators and dies. The closing image describes his feet turning through compass directions and back.",
+      "url": "https://www.huxley.net/bnw/eighteen.html"
+    }
+  ],
+  "termAudit": [
+    {
+      "term": "order and stability",
+      "chapters": [
+        {
+          "chapter": 10,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "term": "brave new world",
+      "chapters": [
+        {
+          "chapter": 8,
+          "hits": 3
+        },
+        {
+          "chapter": 11,
+          "hits": 2
+        },
+        {
+          "chapter": 15,
+          "hits": 5
+        }
+      ]
+    },
+    {
+      "term": "foster",
+      "chapters": [
+        {
+          "chapter": 1,
+          "hits": 31
+        },
+        {
+          "chapter": 3,
+          "hits": 12
+        },
+        {
+          "chapter": 4,
+          "hits": 3
+        },
+        {
+          "chapter": 10,
+          "hits": 2
+        },
+        {
+          "chapter": 11,
+          "hits": 1
+        },
+        {
+          "chapter": 12,
+          "hits": 1
+        },
+        {
+          "chapter": 13,
+          "hits": 1
+        },
+        {
+          "chapter": 17,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "term": "tuesday",
+      "chapters": [
+        {
+          "chapter": 11,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "term": "tuesdays",
+      "chapters": [
+        {
+          "chapter": 7,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "term": "pyramids",
+      "chapters": [
+        {
+          "chapter": 3,
+          "hits": 1
+        },
+        {
+          "chapter": 7,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "term": "seed",
+      "chapters": [
+        {
+          "chapter": 8,
+          "hits": 4
+        }
+      ]
+    },
+    {
+      "term": "seeds",
+      "chapters": [
+        {
+          "chapter": 8,
+          "hits": 2
+        },
+        {
+          "chapter": 18,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "term": "bitcoin",
+      "chapters": []
+    },
+    {
+      "term": "cipher",
+      "chapters": []
+    },
+    {
+      "term": "rune",
+      "chapters": []
+    },
+    {
+      "term": "runes",
+      "chapters": []
+    },
+    {
+      "term": "seattle",
+      "chapters": []
+    },
+    {
+      "term": "1865",
+      "chapters": []
+    },
+    {
+      "term": "2020",
+      "chapters": []
+    }
+  ],
+  "manifest": [
+    {
+      "chapter": 1,
+      "url": "https://www.huxley.net/bnw/one.html",
+      "bytes": 32017,
+      "sha256": "ec50f74aec32c5b7bce74a1e86c54badee40ea51db2e8ae649737e6944f9709e",
+      "normalizedTextSHA256": "667a1543ae0d669a8f72133a23090b23ec0de06415a30b71b20f4ac4254b62ad",
+      "bodyWords": 3963
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.huxley.net/bnw/two.html",
+      "bytes": 22749,
+      "sha256": "06acea1018b3105ba24a7e03418762e43575fb520a833900101243854b0394a2",
+      "normalizedTextSHA256": "65a9a3518c639d6070a511c38eb604bac1b654adeb51f03b9d99834e2b835a2c",
+      "bodyWords": 2677
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.huxley.net/bnw/three.html",
+      "bytes": 46860,
+      "sha256": "967354518b338158d0dfc65e2610ef129906576b5cd6246820a73d3bd9a0b6e4",
+      "normalizedTextSHA256": "0320c3f50d14d46cc3751d92f9af33ea9bf8f20542e2dd5fed863570a01734eb",
+      "bodyWords": 5534
+    },
+    {
+      "chapter": 4,
+      "url": "https://www.huxley.net/bnw/four.html",
+      "bytes": 28295,
+      "sha256": "492f4d6561d9aab5386370820e947751e88b9848f2633309507466b188cedb93",
+      "normalizedTextSHA256": "eafa981ffe05b5d4ac0afa5b0eb412397685df5f051920fadfd42fcd21280921",
+      "bodyWords": 3690
+    },
+    {
+      "chapter": 5,
+      "url": "https://www.huxley.net/bnw/five.html",
+      "bytes": 28869,
+      "sha256": "ae9782de2d81cb05ded83c72af3b26cd3985202fec31831d89e4eee3be6707c3",
+      "normalizedTextSHA256": "6597760e6579b7641a471ad09769f4b669cb960b3b02438c94d5f03b8675dcb4",
+      "bodyWords": 3682
+    },
+    {
+      "chapter": 6,
+      "url": "https://www.huxley.net/bnw/six.html",
+      "bytes": 38358,
+      "sha256": "713b2fb9f980d85abed8d5887af51f1373a5de5ecd9d26318860ad55b1466966",
+      "normalizedTextSHA256": "15f225bf6314238e20265d053b1f6fa1f1353f48dbe48dd2a9baaef7aa8808e3",
+      "bodyWords": 5017
+    },
+    {
+      "chapter": 7,
+      "url": "https://www.huxley.net/bnw/seven.html",
+      "bytes": 32242,
+      "sha256": "5cb852be869ad544a0a0b163a6dbc8e728ad7dc620bce0dbfbefb19b3633adc6",
+      "normalizedTextSHA256": "99dc700bdb15262b8f4919e5bdda8bbedab80f60d0f1cf869ebcb6c485d7ebbd",
+      "bodyWords": 4642
+    },
+    {
+      "chapter": 8,
+      "url": "https://www.huxley.net/bnw/eight.html",
+      "bytes": 34494,
+      "sha256": "5916090baf6f1edaf56e4cfbfa7f1c03f572f23a9d006cb2fab8def9ab00597d",
+      "normalizedTextSHA256": "7d4deecedf6707c6ab3ed081b408d4b42e7ec819a3be0b62e5194e3e7c9e3f10",
+      "bodyWords": 4984
+    },
+    {
+      "chapter": 9,
+      "url": "https://www.huxley.net/bnw/nine.html",
+      "bytes": 12346,
+      "sha256": "056c918a5f6303b3124ac82034626d228a6e3c8d5b94fe8e878e8a279a638307",
+      "normalizedTextSHA256": "3b358b752b2245dbb930a73a0c01656ef31b47a05a498d3fb0ed19803d29840f",
+      "bodyWords": 1330
+    },
+    {
+      "chapter": 10,
+      "url": "https://www.huxley.net/bnw/ten.html",
+      "bytes": 14096,
+      "sha256": "2e888876265e591e8b46fac1508b615f1ff21c64e6ce7f2fe85274dde40e27af",
+      "normalizedTextSHA256": "bd26d16ae719d5f1734872c36620a67b7344358522c82b395eac577747b835ea",
+      "bodyWords": 1562
+    },
+    {
+      "chapter": 11,
+      "url": "https://www.huxley.net/bnw/eleven.html",
+      "bytes": 37746,
+      "sha256": "f27175c1aff002e9e9237c2197b5ea327659848d011ac5f6e3179d60e412cf1d",
+      "normalizedTextSHA256": "d6c1f3d7c57d85482bfbad02a3d2dfeebb5eb5a126a85628baf8051b619f6965",
+      "bodyWords": 4881
+    },
+    {
+      "chapter": 12,
+      "url": "https://www.huxley.net/bnw/twelve.html",
+      "bytes": 27694,
+      "sha256": "c1434c17e79c23f242c4f6dc85ca56bb8b94b0c5d3927e0f0607f4404bfe75db",
+      "normalizedTextSHA256": "1ec927cbc35ab18fc8ca711fa8d74a9f439bd8381a509a34e92d440f69fb5cd5",
+      "bodyWords": 3392
+    },
+    {
+      "chapter": 13,
+      "url": "https://www.huxley.net/bnw/thirteen.html",
+      "bytes": 25063,
+      "sha256": "860cf7aeb8ad3600a7515b8b8936045516d4124db067f8ade10593a740b0dca7",
+      "normalizedTextSHA256": "80961b27fd981bae9b6f90dd852cec3162376d0caa535b9655525f0b028bf2a3",
+      "bodyWords": 2909
+    },
+    {
+      "chapter": 14,
+      "url": "https://www.huxley.net/bnw/fourteen.html",
+      "bytes": 21430,
+      "sha256": "d3ea3fe479bb738a843f0639deaa0685cbb01d0823917eef51460f7c7f9f8b12",
+      "normalizedTextSHA256": "dc659d010efa57f456dfc4806e5be482fbb6ba2b8f84febdba939b59d409918c",
+      "bodyWords": 2663
+    },
+    {
+      "chapter": 15,
+      "url": "https://www.huxley.net/bnw/fifteen.html",
+      "bytes": 18355,
+      "sha256": "6452b5620d08500c0ae48e32495fa14edd5e384c183eb3ee2c5024e89c643059",
+      "normalizedTextSHA256": "c77873603953da5e75729a732b0d9d164a6f3d9e4fcdecdb3439e56d8dbb430b",
+      "bodyWords": 2149
+    },
+    {
+      "chapter": 16,
+      "url": "https://www.huxley.net/bnw/sixteen.html",
+      "bytes": 26464,
+      "sha256": "5c5522624587fac90292d14ffd9ac9e43b94c69933f4a746677507ca78485caf",
+      "normalizedTextSHA256": "e9eb5dc31e9e8e78a30dd219e43a889c072d883a2c40612409546760c97e96cb",
+      "bodyWords": 3363
+    },
+    {
+      "chapter": 17,
+      "url": "https://www.huxley.net/bnw/seventeen.html",
+      "bytes": 22752,
+      "sha256": "2c1cb76c60b23f9f80918bf49fc5f8a6d0f2a079ca22a2bf2be98ec944ec270c",
+      "normalizedTextSHA256": "5ab280d187ae2499b2edef363d0d6f153abc94ca35c2cb36f15e9a275b2221f2",
+      "bodyWords": 2848
+    },
+    {
+      "chapter": 18,
+      "url": "https://www.huxley.net/bnw/eighteen.html",
+      "bytes": 37886,
+      "sha256": "be206a7888c85f995d305437eeb368d95ba012d5b1fc05fddb2ed6d839172d48",
+      "normalizedTextSHA256": "1b505b82120a4440f8350bb3daff84c529aa40dba80686cabe608754277fa389",
+      "bodyWords": 4992
+    }
+  ],
+  "artistNote": "User confirmed Charly Palmer as the candidate name. CHARLY has six letters and PALMER has six. Twelve is a valid count for that spelling; authorship and the proposed connection to the recorded sum of two numbers remain hypotheses. HENRY FOSTER has eleven letters.",
+  "limits": [
+    "The whitepaper text forming the title remains a separately evidenced source. It is not replaced by Huxley.",
+    "The existing Russian and TUESDAY readings are provisional annotations, not independent solutions supplied by this novel.",
+    "The book does not independently identify the final border symbol or provide a known cipher alphabet.",
+    "Exact whole word searches found no Bitcoin, cipher, rune, Seattle, 1865 or 2020 in this transcription. This is a limited literal search, not proof that every related concept is absent.",
+    "No chapter, page, letter count or number pair is selected by the artwork with a verified rule. Pagination would require an identified edition.",
+    "Charly Palmer’s authorship is not established by the user confirmed spelling or a community attribution."
+  ],
+  "report": "# Brave New World and the artwork\n\nAll eighteen chapters of the Huxley.net transcription were read. Chapter body text was retained privately for review; navigation was excluded from searches. This is one web transcription, not a collation of printed editions. Original authorial intent, artist attribution and cipher keys remain unverified.\n\nThe combined title and exact Order and Stability phrase support a deliberate Huxley reference as a strong inference. The novel supplies political context and several comparison leads, but no verified geometric glyph mapping or numerical extraction rule.\n\n## Similarities and their limits\n\n### Order and Stability\n\nStrength: Direct wording. [Chapter 10](https://www.huxley.net/bnw/ten.html).\n\nArtwork: Yellow writing at the top reads Order and stability.\n\nBook: The Director uses Order and Stability while declaring Bernard an enemy of the social system.\n\nAssessment: Exact phrase match, case normalized. It was already recorded in the earlier source comparison; the full novel review strengthens its context, not its novelty.\n\n### The title and its irony\n\nStrength: Direct wording. [Chapter 8](https://www.huxley.net/bnw/eight.html).\n\nArtwork: WELCOME TO THE BRAVE NEW WORLD is formed from small transaction related writing.\n\nBook: John repeats the title phrase from Shakespeare while imagining a wonderful civilization.\n\nAssessment: Direct title phrase overlap. Later uses in chapters 11 and 15 turn admiration into disgust and then resolve to act. This supports an ironic political reading, not a book cipher.\n\n### Monuments and erased history\n\nStrength: Specific parallel. [Chapter 3](https://www.huxley.net/bnw/three.html).\n\nArtwork: A defaced statue stands opposite the Statue of Liberty; a pyramid appears in the seal.\n\nBook: Mond describes a campaign against the past, destroyed monuments and forgotten pyramids.\n\nAssessment: The overlap joins monument imagery to historical erasure. The novel does not name this statue, Leopold, or the US seal. Author intent remains unverified.\n\n### The disc topped tower\n\nStrength: Specific parallel. [Chapter 4](https://www.huxley.net/bnw/four.html).\n\nArtwork: The artwork depicts Seattle’s Space Needle.\n\nBook: The Charing T Tower is described as a slender stalk carrying a concrete disc.\n\nAssessment: A specific shape analogy. The text describes London, not Seattle; it cannot by itself identify a location or symbol value.\n\n### Policing a confrontation\n\nStrength: Specific parallel. [Chapter 15](https://www.huxley.net/bnw/fifteen.html).\n\nArtwork: The image calls for an end to police brutality and depicts surveillance equipment.\n\nBook: Police suppress a confrontation using gas, anaesthetic water pistols and a synthetic calming speech.\n\nAssessment: Strong scene level thematic comparison. The novel’s methods differ from the real violence referenced by the artwork; the two events are not equivalent.\n\n### Inability to breathe\n\nStrength: Specific parallel. [Chapter 14](https://www.huxley.net/bnw/fourteen.html).\n\nArtwork: George Floyd’s clothing bears I can’t BREATHE.\n\nBook: Linda’s fatal episode includes failed breathing and hands reaching to her throat.\n\nAssessment: A concrete bodily parallel in a scene about death and institutional responses. It does not claim the novel predicted Floyd’s death or that his portrait represents Linda.\n\n### Surveillance and spectacle\n\nStrength: Specific parallel. [Chapter 18](https://www.huxley.net/bnw/eighteen.html).\n\nArtwork: Cameras and other monitoring equipment occupy the upper right.\n\nBook: A photographer secretly records John with cameras and hidden microphones, then turns his suffering into mass entertainment.\n\nAssessment: Closer to media intrusion than a simple claim that the novel depicts universal camera surveillance. This distinction matters when comparing it with other dystopias.\n\n### Freedom versus managed stability\n\nStrength: Thematic. [Chapter 16](https://www.huxley.net/bnw/sixteen.html).\n\nArtwork: The Statue of Liberty and STOP protest graphic oppose the order slogan.\n\nBook: Mond argues that liberty, serious art and unrestricted science jeopardize stability.\n\nAssessment: A strong thematic opposition already supported by B01. It does not supply a substitution alphabet.\n\n### Race and imposed hierarchy\n\nStrength: Thematic. [Chapter 11](https://www.huxley.net/bnw/eleven.html).\n\nArtwork: BLM slogans and Floyd’s portrait foreground racial injustice.\n\nBook: The factory and entertainment scenes use racialized hierarchy and stereotypes.\n\nAssessment: Relevant critical comparison. The novel’s caste categories and historical vocabulary are not direct equivalents of the artwork’s modern claims.\n\n### The weekday lead\n\nStrength: Weak lead. [Chapter 7](https://www.huxley.net/bnw/seven.html).\n\nArtwork: The existing annotation above Trump reads TUESDAY; it remains a cipher reading hypothesis.\n\nBook: Linda recalls a particular tower being illuminated on Tuesdays and Fridays.\n\nAssessment: A testable weekday and tower pairing, but the building is an Abortion Centre in Chelsea, not the Space Needle. Chapter 11 also mentions Tuesday, so the occurrence is not unique.\n\n### Twelve around a circle\n\nStrength: Weak lead. [Chapter 5](https://www.huxley.net/bnw/five.html).\n\nArtwork: The artwork has a clock; the user reports the candidate artist name Charly Palmer, six plus six letters.\n\nBook: A Solidarity Service seats twelve participants around a circular table.\n\nAssessment: A numerical and geometric resemblance. The artwork does not visibly show twelve ritual participants. Counting a reported name does not verify the creator, select this passage or define an operation.\n\n### Question marks as labels\n\nStrength: Weak lead. [Chapter 1](https://www.huxley.net/bnw/one.html).\n\nArtwork: Red question marks appear near the presidential figures and Liberty date.\n\nBook: The hatchery assigns a T, a circle or a question mark to three reproductive categories.\n\nAssessment: A documented alternative function for simple signs. The book’s question mark is black on white; neither color nor context matches closely enough to assign artwork glyph values.\n\n### Greek letter categories\n\nStrength: Weak lead. [Chapter 1](https://www.huxley.net/bnw/one.html).\n\nArtwork: Some geometric marks resemble familiar letters or runes.\n\nBook: The population is divided into Alpha, Beta, Gamma, Delta and Epsilon castes.\n\nAssessment: The terminology suggests reviewing Greek forms as an independent comparison. It does not demonstrate that the drawing encodes Greek, nor that every triangle is Delta.\n\n### Seed terminology\n\nStrength: Weak lead. [Chapter 8](https://www.huxley.net/bnw/eight.html).\n\nArtwork: SEED PHRASE is visible in the title background.\n\nBook: A creation story discusses seeds of living beings and the world.\n\nAssessment: Literal seed vocabulary has a different meaning from cryptographic recovery words. Chapter 18 also mentions twenty four seed packets. Neither reference specifies a phrase length or extraction rule.\n\n### Pot imagery and the Latin footer\n\nStrength: Weak lead. [Chapter 8](https://www.huxley.net/bnw/eight.html).\n\nArtwork: The faint Latin footer invokes a pot and kettle; its exact reading remains under review.\n\nBook: John learns to build a clay pot, initially shaping its base as a moon.\n\nAssessment: A loose vocabulary connection to the footer and clock’s moon annotation. The novel does not give the artwork’s Latin proverb or a rule joining these elements.\n\n### Compass directions and reversal\n\nStrength: Weak lead. [Chapter 18](https://www.huxley.net/bnw/eighteen.html).\n\nArtwork: The clock and seal invite orientation inspection.\n\nBook: The closing scene describes feet turning through compass directions and reversing.\n\nAssessment: An orientation lead only. There is no established correspondence to clock hands, chapter positions or glyph rotations. No instruction to reverse all text is justified.\n\n### Health and biological control\n\nStrength: Thematic. [Chapter 1](https://www.huxley.net/bnw/one.html).\n\nArtwork: The upper left group wears masks beside a COVID chart.\n\nBook: The hatchery manipulates development, oxygen and immunization.\n\nAssessment: A broad health and control theme, not a specific COVID reference. A 1932 novel cannot literally name this 2020 event.\n\n## All eighteen chapters reviewed\n\n1. [Hatchery and hierarchy](https://www.huxley.net/bnw/one.html): Engineered reproduction, caste assignment and Henry Foster introduce a society organized around stability. The labels and oxygen deprivation offer comparison leads, not a recovered symbol key.\n\n2. [Conditioning and repetition](https://www.huxley.net/bnw/two.html): Children learn prejudices through shocks and repeated sleep lessons. This parallels social control broadly; it does not explain any particular geometric sign.\n\n3. [History and monuments](https://www.huxley.net/bnw/three.html): Mond describes suppressing history, removing monuments and replacing force with conditioning. Interwoven conversations show consumerism and conformity.\n\n4. [Architecture and propaganda](https://www.huxley.net/bnw/four.html): Foster flies over a disc topped tower on a narrow stalk. Bernard visits propaganda offices and a writer who wants meaningful expression.\n\n5. [Twelve in a circle](https://www.huxley.net/bnw/five.html): Foster discusses material recovery after cremation. Bernard attends a twelve person circular ritual but remains emotionally separate.\n\n6. [Freedom and exclusion](https://www.huxley.net/bnw/six.html): Bernard questions conditioned happiness and receives a threat of exile. The Reservation is separated by an electrified boundary.\n\n7. [Two societies](https://www.huxley.net/bnw/seven.html): The visitors encounter ritual violence and Linda. She recalls a tower illuminated on Tuesdays and Fridays. Differences in bodily age, cleanliness and beliefs dominate.\n\n8. [Language and inherited stories](https://www.huxley.net/bnw/eight.html): John learns written language, Shakespeare and creation narratives. His excitement at visiting London gives the title phrase an initially hopeful meaning.\n\n9. [Access and private desire](https://www.huxley.net/bnw/nine.html): Bernard obtains permission to bring John and Linda to London. John enters the sleeping Lenina’s room. No specific new glyph parallel was identified.\n\n10. [Order and Stability](https://www.huxley.net/bnw/ten.html): The Director condemns Bernard’s dissent using the same three word phrase shown in the artwork. His public authority collapses when his parenthood is exposed.\n\n11. [Spectacle and racial hierarchy](https://www.huxley.net/bnw/eleven.html): John encounters factories, education and entertainment. Racial stereotypes appear in a film. Bernard boasts of encounters including Tuesday; there is no unique weekday instruction.\n\n12. [Censorship and poetry](https://www.huxley.net/bnw/twelve.html): Mond suppresses a scientific paper; Helmholtz’s poem causes trouble. Shakespeare produces a connection between readers but also exposes their cultural differences.\n\n13. [Misunderstanding and coercion](https://www.huxley.net/bnw/thirteen.html): John and Lenina interpret love and duty differently; the conflict becomes violent. Foster appears, but no identifiable corresponding portrait is established.\n\n14. [Breath and grief](https://www.huxley.net/bnw/fourteen.html): Linda dies while unable to draw breath. John’s distress conflicts with the institution’s emotional conditioning and indifference to individual loss.\n\n15. [Dissent and policing](https://www.huxley.net/bnw/fifteen.html): John disrupts drug distribution. Police use airborne drugs, anaesthetic pistols and a prerecorded calming speech to suppress the resulting confrontation.\n\n16. [Stability at a cost](https://www.huxley.net/bnw/sixteen.html): Mond defends caste hierarchy, censorship and restricted science. Independent people are exiled; liberty and art are treated as threats to the system.\n\n17. [Freedom and discomfort](https://www.huxley.net/bnw/seventeen.html): John challenges a society that avoids pain and spiritual questions. Foster’s monetary cost example does not establish a numerical extraction rule.\n\n18. [Cameras and spectators](https://www.huxley.net/bnw/eighteen.html): John retreats, is secretly filmed, attracts spectators and dies. The closing image describes his feet turning through compass directions and back.\n\n## Name counts\n\nUser confirmed Charly Palmer as the candidate name. CHARLY has six letters and PALMER has six. Twelve is a valid count for that spelling; authorship and the proposed connection to the recorded sum of two numbers remain hypotheses. HENRY FOSTER has eleven letters.\n\n## Limits\n\n- The whitepaper text forming the title remains a separately evidenced source. It is not replaced by Huxley.\n- The existing Russian and TUESDAY readings are provisional annotations, not independent solutions supplied by this novel.\n- The book does not independently identify the final border symbol or provide a known cipher alphabet.\n- Exact whole word searches found no Bitcoin, cipher, rune, Seattle, 1865 or 2020 in this transcription. This is a limited literal search, not proof that every related concept is absent.\n- No chapter, page, letter count or number pair is selected by the artwork with a verified rule. Pagination would require an identified edition.\n- Charly Palmer’s authorship is not established by the user confirmed spelling or a community attribution.\n\n## Reproducibility\n\nThe downloadable JSON records chapter source URLs, retrieved HTML SHA256 values, normalized body text SHA256 values and literal search counts. Full copyrighted chapter texts are not bundled or published.\n"
+}

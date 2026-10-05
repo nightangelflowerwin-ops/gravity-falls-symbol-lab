@@ -101,3 +101,8 @@ Seventeen additional leads include occult alphabets, Pigpen, manuscript collecti
 ## Geometric glyph decipherment
 
 Choose Research view → Geometric glyph decipherment for four existing plaintext readings and English meanings, with evidence status and the unknown terminal position preserved. A separate visual experiment compares 106 image glyphs to 184 forms from seven attributed Peterson fonts, across eight rotations and reflections. All 848 records are downloadable. No new plaintext or glyph identity is accepted. Scores are shape affinities, not probabilities, and the experimental thresholds are not calibrated recognition accuracy. Font encoding keys are not translations. Reproduce the experiment with python tools/rebuild-decipherment-audit.py using Pillow and numpy, then rebuild the dashboard with python build.py. Reference fonts and attribution are bundled.
+
+
+## Brave New World comparison
+
+Research view → Brave New World comparison contains the review of all eighteen chapters, seventeen artwork comparisons, filters for evidence level, source links, literal search counts and downloadable JSON and Markdown. Exact wording, specific parallels, themes and weak leads remain separate. The complete copyrighted text is not redistributed. The title and Order and Stability phrase support a literary reference; no new glyph mapping or extraction rule is accepted. The user confirmed Charly Palmer spelling yields twelve letters, but authorship remains unverified.

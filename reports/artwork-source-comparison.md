@@ -11,13 +11,13 @@ The artwork combines textual references and symbol substitutions. A source match
 | Recent Gravity Falls alphabets | The Book of Bill, published July 23, 2024 | Cannot be an original source for a 2020 artwork unless an earlier occurrence of that alphabet is documented. |
 | Terminal mark after the right border number caption | Unresolved | No verified book, alphabet identity or value found. It must remain unknown. Resemblance to a rune, alchemical sign or cipher glyph is not sufficient. |
 
-The right border is a Russian plaintext interpretation using geometric substitution symbols. Russian is the underlying language; Gravity Falls is a possible symbol family. These are different kinds of labels. The additional marks could be invented extensions, borrowed signs, or another key; the available evidence does not select between these explanations.
+The right border has an existing community Russian plaintext interpretation using geometric substitution symbols. It remains a reading hypothesis. The artwork is treated as an unknown symbol system; a proposed plaintext language and a proposed glyph family are different kinds of labels. The additional marks could be invented extensions, borrowed signs, or another key; the available evidence does not select between these explanations.
 
 The independent community report describes this same terminal glyph as unattested in its tested keys. This is a report of its own measurements, not an author supplied key or an independent proof of origin. Its statement that the glyph must be one of five missing Cyrillic letters assumes a complete, single alphabet and correct plaintexts; those assumptions are not established for every symbol.
 
 Reference pages were searched for Journal 3, the Author key, Bill's key, historical runes, alchemical symbols and Pigpen. Search results do not prove a match. Direct retrieval of the dCode chart pages was blocked with HTTP 403, so no new automatic full alphabet comparison or recovered assignment is claimed.
 
-Relevant Huxley passages and the whitepaper section were read. This report does not claim a complete reading of the novel or a complete decipherment of the artwork.
+The initial pass read selected Huxley passages. The later Brave New World comparison now reviews all eighteen chapters of the Huxley.net transcription, with seventeen classified artwork parallels, chapter links and a literal search audit. See Research view → Brave New World comparison and reports/brave-new-world-comparison.md. No complete decipherment is claimed.
 
 ## Sources
 
