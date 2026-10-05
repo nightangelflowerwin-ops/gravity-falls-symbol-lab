@@ -1,6 +1,6 @@
 # Gravity Falls symbol and runic calendar lab
 
-Open the live dashboard at https://nightangelflowerwin-ops.github.io/gravity-falls-symbol-lab/ in Chrome or Edge, or open **index.html** locally. It is a standalone file and works offline. No installation, API key, server, or image upload to an external service is required.
+Open the live dashboard at https://nightangelflowerwin-ops.github.io/gravityfallssymbollab/ in Chrome or Edge, or open **index.html** locally. It is a standalone file and works offline. No installation, API key, server, or image upload to an external service is required.
 
 ## Use it
 
