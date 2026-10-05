@@ -1,0 +1,13 @@
+<section id="segregationPanel" class="panel">
+<h2>Image segregation</h2>
+<p id="segSummary"></p>
+<p id="segConclusion"></p>
+<label>Show <select id="segFilter"><option value="unknown">Unresolved objects</option><option value="all">All inscription glyphs</option><option value="groups">Shape groups</option></select></label>
+<label>Reference family <select id="segFamily"><option value="all">All reference families</option></select></label>
+<label>Source region <select id="segRegion"><option value="all">All regions</option></select></label>
+<div id="segInventory" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin-top:16px"></div>
+<details><summary>Method and boundaries</summary><p id="segMethod"></p><p id="segScope"></p><p>Existing readings are preserved as annotations. Shape groups use no letter labels. Different shapes may encode the same letter, and similar shapes may encode different letters. Historical chart slots are provisional cuts and have no assigned Hebrew values. Theban is a source lead, not a tested reference family. No score automatically accepts an identity.</p></details>
+<details><summary>Historical sources</summary><div id="segSources"></div></details>
+<button id="segExport">Download complete glyph inventory</button>
+<a id="segAtlas" download="glyph-atlas.png">Download glyph atlas</a>
+</section>

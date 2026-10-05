@@ -86,3 +86,7 @@ Every research addition is part of the dictionary. The Research and whitepaper p
 Use Research view to switch between extraction, sources, alignment and files. Filter the extraction by title block or the word alignment by differences and uncertain readings. Source matches do not identify an unknown glyph. Hidden footer words remain unreadable rather than being filled from the whitepaper. The alignment's explicit paragraph reordering and fragment joining are comparison steps, separate from the saved image reading.
 
 Research data lives in src/research-data.json, rendering in src/research-panel.html and src/research-engine.js, and downloadable copies in reports/. Rebuild using python build.py. Future research must be added to this dashboard and the published repository, rather than only delivered as separate files.
+
+## Image segregation
+
+The dashboard includes 106 separated inscription glyphs in 49 conservative shape groups, an unresolved object queue, and visual comparisons against 137 reference forms. The family and region filters preserve source positions and previous annotation status. Scores do not accept identities or translations automatically. The complete inventory and glyph atlas download offline. See reports/image-segregation.md for sources and limits.
