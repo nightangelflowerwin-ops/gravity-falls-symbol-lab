@@ -4,7 +4,7 @@ parser=argparse.ArgumentParser();parser.add_argument('--source-dir',type=Path,re
 root=Path(__file__).resolve().parents[1];book=json.loads((root/'src/book-study-data.json').read_text(encoding='utf-8'))
 vocab={
 'Artwork vocabulary':['order and stability','brave new world','stability','liberty','freedom','history','monuments','pyramids','tower','towers','camera','cameras','police','breath','breathe','breathing','seed','seeds','moon','black','white','rain','numbers','figures'],
-'Symbol vocabulary':['question mark','circle','circular','cross','crosses','sign of the T','T-Model','Alpha','Alphas','Beta','Betas','Gamma','Gammas','Delta','Deltas','Epsilon','Epsilons','letters','words','names'],
+'Symbol vocabulary':['question mark','circle','circular','cross','crosses','sign of the T','T-Model','Alpha','Alphas','Beta','Betas','Gamma','Gammas','Delta','Deltas','Epsilon','Epsilons','letters','words','names','sum','multiply','divide','division','double','twice','equal','mirrors'],
 'Directions':['north-east','north east','south-east','south east','south-south-west','north','south','east','west','northwards','southwards','eastwards','westwards','left','right','clockwise','anticlockwise','upside down','heads','tails'],
 'Weekdays':['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday','Mondays','Tuesdays','Wednesdays','Thursdays','Fridays','Saturdays','Sundays'],
 'Names':['Henry Foster','Mr. Foster','Foster','Bernard Marx','Bernard','Marx','Mustapha Mond','Mond','Helmholtz Watson','Helmholtz','Watson','Lenina Crowne','Lenina','Fanny Crowne','Fanny','Linda','John','Tomakin','Shakespeare','Miranda','Ford','Freud','Mitsima','Darwin Bonaparte','Primo Mellon','Benito Hoover','Morgana Rothschild','Pookong','Awonawilona','Jesus']}
