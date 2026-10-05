@@ -1,6 +1,6 @@
 # Gravity Falls symbol and runic-calendar lab
 
-Open **index.html** in Chrome or Edge. It is a standalone file and works offline. No installation, API key, server, or image upload to an external service is required.
+Open the live dashboard at https://nightangelflowerwin-ops.github.io/gravity-falls-symbol-lab/ in Chrome or Edge, or open **index.html** locally. It is a standalone file and works offline. No installation, API key, server, or image upload to an external service is required.
 
 ## Use it
 
@@ -76,4 +76,4 @@ Reports live in `reports/`. The template dictionary is separate from the calenda
 - [US Naval Observatory calendar introduction](https://aa.usno.navy.mil/faq/calendars): the Metonic cycle and golden numbers.
 - [Noto Sans Runic](https://github.com/googlefonts/noto-fonts): embedded reference font, under the SIL Open Font License, copied in `licenses/`.
 
-The supplied artwork and community reference chart retain their respective rights. Their inclusion does not assert ownership or grant redistribution rights. Source image attribution was not supplied. This research package stays private; consult rights holders before public redistribution. No credentials are included.
+The supplied artwork and community reference chart retain their respective rights. Their inclusion does not assert ownership or grant redistribution rights. Source image attribution was not supplied. This repository is public at the uploader's request. Consult rights holders before further redistribution. No credentials are included.
