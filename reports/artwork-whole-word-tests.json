@@ -1,0 +1,5604 @@
+{
+  "title": "Whole word rule tests",
+  "supersedes": "The earlier artwork initial tests did not apply rules to whole words. This report corrects that interpretation.",
+  "sourceSHA256": "5af1c82e275f5858cbb930697b8ebaa4622bf1db05680126e93395f9c610f0e2",
+  "scope": "Whole words in displayed title order: WELCOME TO THE BRAVE NEW WORLD. Footer excluded. Only declared handwritten fragments are joined; spellings and uncertainty markers remain unchanged. A joined word crossing a region boundary is assigned to its starting region, with all spans retained. Twelve word blocks and a one position rotation are exploratory conventions, not established instructions.",
+  "conclusion": "No distinct additional coherent message is evident in these whole word outputs. Ordinary Bitcoin sentences in the reordered material are source text, not a new decipherment. The provisional transcription and unspecified reading anchors limit the result.",
+  "tokens": [
+    {
+      "word": "In",
+      "spans": [
+        {
+          "region": 1,
+          "block": "WELCOME",
+          "letter": "W",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 1
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 1,
+          "block": "WELCOME",
+          "letter": "W",
+          "start": 3,
+          "end": 6
+        }
+      ],
+      "position": 2
+    },
+    {
+      "word": "mint",
+      "spans": [
+        {
+          "region": 1,
+          "block": "WELCOME",
+          "letter": "W",
+          "start": 7,
+          "end": 11
+        }
+      ],
+      "position": 3
+    },
+    {
+      "word": "based",
+      "spans": [
+        {
+          "region": 1,
+          "block": "WELCOME",
+          "letter": "W",
+          "start": 12,
+          "end": 17
+        }
+      ],
+      "position": 4
+    },
+    {
+      "word": "model",
+      "spans": [
+        {
+          "region": 1,
+          "block": "WELCOME",
+          "letter": "W",
+          "start": 18,
+          "end": 23
+        }
+      ],
+      "position": 5
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 2,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "position": 6
+    },
+    {
+      "word": "mint",
+      "spans": [
+        {
+          "region": 2,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 4,
+          "end": 8
+        }
+      ],
+      "position": 7
+    },
+    {
+      "word": "was",
+      "spans": [
+        {
+          "region": 2,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 9,
+          "end": 12
+        }
+      ],
+      "position": 8
+    },
+    {
+      "word": "aware",
+      "spans": [
+        {
+          "region": 2,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 13,
+          "end": 18
+        }
+      ],
+      "position": 9
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 3,
+          "block": "WELCOME",
+          "letter": "L",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 10
+    },
+    {
+      "word": "all",
+      "spans": [
+        {
+          "region": 3,
+          "block": "WELCOME",
+          "letter": "L",
+          "start": 3,
+          "end": 6
+        }
+      ],
+      "position": 11
+    },
+    {
+      "word": "transactions",
+      "spans": [
+        {
+          "region": 3,
+          "block": "WELCOME",
+          "letter": "L",
+          "start": 7,
+          "end": 14
+        },
+        {
+          "region": 4,
+          "block": "WELCOME",
+          "letter": "C",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "position": 12
+    },
+    {
+      "word": "and",
+      "spans": [
+        {
+          "region": 4,
+          "block": "WELCOME",
+          "letter": "C",
+          "start": 6,
+          "end": 9
+        }
+      ],
+      "position": 13
+    },
+    {
+      "word": "decided",
+      "spans": [
+        {
+          "region": 4,
+          "block": "WELCOME",
+          "letter": "C",
+          "start": 10,
+          "end": 17
+        }
+      ],
+      "position": 14
+    },
+    {
+      "word": "which",
+      "spans": [
+        {
+          "region": 5,
+          "block": "WELCOME",
+          "letter": "O",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "position": 15
+    },
+    {
+      "word": "arrived",
+      "spans": [
+        {
+          "region": 5,
+          "block": "WELCOME",
+          "letter": "O",
+          "start": 6,
+          "end": 13
+        }
+      ],
+      "position": 16
+    },
+    {
+      "word": "first",
+      "spans": [
+        {
+          "region": 5,
+          "block": "WELCOME",
+          "letter": "O",
+          "start": 14,
+          "end": 19
+        }
+      ],
+      "position": 17
+    },
+    {
+      "word": "To",
+      "spans": [
+        {
+          "region": 6,
+          "block": "WELCOME",
+          "letter": "M",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 18
+    },
+    {
+      "word": "accomplish",
+      "spans": [
+        {
+          "region": 6,
+          "block": "WELCOME",
+          "letter": "M",
+          "start": 3,
+          "end": 13
+        }
+      ],
+      "position": 19
+    },
+    {
+      "word": "this",
+      "spans": [
+        {
+          "region": 6,
+          "block": "WELCOME",
+          "letter": "M",
+          "start": 14,
+          "end": 18
+        }
+      ],
+      "position": 20
+    },
+    {
+      "word": "without",
+      "spans": [
+        {
+          "region": 6,
+          "block": "WELCOME",
+          "letter": "M",
+          "start": 19,
+          "end": 26
+        }
+      ],
+      "position": 21
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 6,
+          "block": "WELCOME",
+          "letter": "M",
+          "start": 27,
+          "end": 28
+        }
+      ],
+      "position": 22
+    },
+    {
+      "word": "trusted",
+      "spans": [
+        {
+          "region": 6,
+          "block": "WELCOME",
+          "letter": "M",
+          "start": 29,
+          "end": 36
+        }
+      ],
+      "position": 23
+    },
+    {
+      "word": "party",
+      "spans": [
+        {
+          "region": 7,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "position": 24
+    },
+    {
+      "word": "transactions",
+      "spans": [
+        {
+          "region": 7,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 7,
+          "end": 14
+        },
+        {
+          "region": 7,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 15,
+          "end": 20
+        }
+      ],
+      "position": 25
+    },
+    {
+      "word": "must",
+      "spans": [
+        {
+          "region": 7,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 21,
+          "end": 25
+        }
+      ],
+      "position": 26
+    },
+    {
+      "word": "be",
+      "spans": [
+        {
+          "region": 8,
+          "block": "TO",
+          "letter": "T",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 27
+    },
+    {
+      "word": "publicly",
+      "spans": [
+        {
+          "region": 8,
+          "block": "TO",
+          "letter": "T",
+          "start": 3,
+          "end": 11
+        }
+      ],
+      "position": 28
+    },
+    {
+      "word": "announced",
+      "spans": [
+        {
+          "region": 8,
+          "block": "TO",
+          "letter": "T",
+          "start": 12,
+          "end": 14
+        },
+        {
+          "region": 9,
+          "block": "TO",
+          "letter": "O",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "position": 29
+    },
+    {
+      "word": "and",
+      "spans": [
+        {
+          "region": 9,
+          "block": "TO",
+          "letter": "O",
+          "start": 9,
+          "end": 12
+        }
+      ],
+      "position": 30
+    },
+    {
+      "word": "we",
+      "spans": [
+        {
+          "region": 9,
+          "block": "TO",
+          "letter": "O",
+          "start": 13,
+          "end": 15
+        }
+      ],
+      "position": 31
+    },
+    {
+      "word": "need",
+      "spans": [
+        {
+          "region": 10,
+          "block": "THE",
+          "letter": "T",
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "position": 32
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 10,
+          "block": "THE",
+          "letter": "T",
+          "start": 5,
+          "end": 6
+        }
+      ],
+      "position": 33
+    },
+    {
+      "word": "system",
+      "spans": [
+        {
+          "region": 10,
+          "block": "THE",
+          "letter": "T",
+          "start": 7,
+          "end": 13
+        }
+      ],
+      "position": 34
+    },
+    {
+      "word": "for",
+      "spans": [
+        {
+          "region": 11,
+          "block": "THE",
+          "letter": "H",
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "position": 35
+    },
+    {
+      "word": "participans",
+      "spans": [
+        {
+          "region": 11,
+          "block": "THE",
+          "letter": "H",
+          "start": 4,
+          "end": 15
+        }
+      ],
+      "position": 36
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 37
+    },
+    {
+      "word": "agree",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 3,
+          "end": 8
+        }
+      ],
+      "position": 38
+    },
+    {
+      "word": "on",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 9,
+          "end": 11
+        }
+      ],
+      "position": 39
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 12,
+          "end": 13
+        }
+      ],
+      "position": 40
+    },
+    {
+      "word": "single",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 14,
+          "end": 20
+        }
+      ],
+      "position": 41
+    },
+    {
+      "word": "history",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 21,
+          "end": 28
+        }
+      ],
+      "position": 42
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 29,
+          "end": 31
+        }
+      ],
+      "position": 43
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 32,
+          "end": 35
+        }
+      ],
+      "position": 44
+    },
+    {
+      "word": "order",
+      "spans": [
+        {
+          "region": 12,
+          "block": "THE",
+          "letter": "E",
+          "start": 36,
+          "end": 41
+        }
+      ],
+      "position": 45
+    },
+    {
+      "word": "We",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 46
+    },
+    {
+      "word": "define",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 3,
+          "end": 9
+        }
+      ],
+      "position": 47
+    },
+    {
+      "word": "an",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 10,
+          "end": 12
+        }
+      ],
+      "position": 48
+    },
+    {
+      "word": "electronic",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 13,
+          "end": 23
+        }
+      ],
+      "position": 49
+    },
+    {
+      "word": "coin",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 24,
+          "end": 28
+        }
+      ],
+      "position": 50
+    },
+    {
+      "word": "as",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 29,
+          "end": 31
+        }
+      ],
+      "position": 51
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 32,
+          "end": 33
+        }
+      ],
+      "position": 52
+    },
+    {
+      "word": "chain",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 34,
+          "end": 39
+        }
+      ],
+      "position": 53
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 40,
+          "end": 42
+        }
+      ],
+      "position": 54
+    },
+    {
+      "word": "digital",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 43,
+          "end": 50
+        }
+      ],
+      "position": 55
+    },
+    {
+      "word": "signatures",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 51,
+          "end": 61
+        }
+      ],
+      "position": 56
+    },
+    {
+      "word": "Each",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 63,
+          "end": 67
+        }
+      ],
+      "position": 57
+    },
+    {
+      "word": "owner",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 68,
+          "end": 73
+        }
+      ],
+      "position": 58
+    },
+    {
+      "word": "transfers",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 74,
+          "end": 83
+        }
+      ],
+      "position": 59
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 84,
+          "end": 87
+        }
+      ],
+      "position": 60
+    },
+    {
+      "word": "coin",
+      "spans": [
+        {
+          "region": 13,
+          "block": "BRAVE",
+          "letter": "B",
+          "start": 88,
+          "end": 92
+        }
+      ],
+      "position": 61
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 62
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 3,
+          "end": 6
+        }
+      ],
+      "position": 63
+    },
+    {
+      "word": "next",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 7,
+          "end": 11
+        }
+      ],
+      "position": 64
+    },
+    {
+      "word": "by",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 12,
+          "end": 14
+        }
+      ],
+      "position": 65
+    },
+    {
+      "word": "digitally",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 15,
+          "end": 24
+        }
+      ],
+      "position": 66
+    },
+    {
+      "word": "signing",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 25,
+          "end": 32
+        }
+      ],
+      "position": 67
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 33,
+          "end": 34
+        }
+      ],
+      "position": 68
+    },
+    {
+      "word": "hash",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 35,
+          "end": 39
+        }
+      ],
+      "position": 69
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 40,
+          "end": 42
+        }
+      ],
+      "position": 70
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 43,
+          "end": 46
+        }
+      ],
+      "position": 71
+    },
+    {
+      "word": "previous",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 47,
+          "end": 55
+        }
+      ],
+      "position": 72
+    },
+    {
+      "word": "transaction",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 56,
+          "end": 67
+        }
+      ],
+      "position": 73
+    },
+    {
+      "word": "and",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 68,
+          "end": 71
+        }
+      ],
+      "position": 74
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 72,
+          "end": 75
+        }
+      ],
+      "position": 75
+    },
+    {
+      "word": "public",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 76,
+          "end": 82
+        }
+      ],
+      "position": 76
+    },
+    {
+      "word": "key",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 83,
+          "end": 86
+        }
+      ],
+      "position": 77
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 87,
+          "end": 89
+        }
+      ],
+      "position": 78
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 90,
+          "end": 93
+        }
+      ],
+      "position": 79
+    },
+    {
+      "word": "next",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 94,
+          "end": 98
+        }
+      ],
+      "position": 80
+    },
+    {
+      "word": "owner",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 99,
+          "end": 104
+        }
+      ],
+      "position": 81
+    },
+    {
+      "word": "and",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 105,
+          "end": 108
+        }
+      ],
+      "position": 82
+    },
+    {
+      "word": "adding",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 109,
+          "end": 115
+        }
+      ],
+      "position": 83
+    },
+    {
+      "word": "these",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 116,
+          "end": 121
+        }
+      ],
+      "position": 84
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 122,
+          "end": 124
+        }
+      ],
+      "position": 85
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 125,
+          "end": 128
+        }
+      ],
+      "position": 86
+    },
+    {
+      "word": "end",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 129,
+          "end": 132
+        }
+      ],
+      "position": 87
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 133,
+          "end": 135
+        }
+      ],
+      "position": 88
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 136,
+          "end": 139
+        }
+      ],
+      "position": 89
+    },
+    {
+      "word": "coin",
+      "spans": [
+        {
+          "region": 14,
+          "block": "BRAVE",
+          "letter": "R",
+          "start": 140,
+          "end": 144
+        }
+      ],
+      "position": 90
+    },
+    {
+      "word": "A",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "position": 91
+    },
+    {
+      "word": "payee",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 2,
+          "end": 7
+        }
+      ],
+      "position": 92
+    },
+    {
+      "word": "can",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 8,
+          "end": 11
+        }
+      ],
+      "position": 93
+    },
+    {
+      "word": "verify",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 12,
+          "end": 18
+        }
+      ],
+      "position": 94
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 19,
+          "end": 22
+        }
+      ],
+      "position": 95
+    },
+    {
+      "word": "signatures",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 23,
+          "end": 33
+        }
+      ],
+      "position": 96
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 34,
+          "end": 36
+        }
+      ],
+      "position": 97
+    },
+    {
+      "word": "verify",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 37,
+          "end": 43
+        }
+      ],
+      "position": 98
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 44,
+          "end": 47
+        }
+      ],
+      "position": 99
+    },
+    {
+      "word": "chain",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 48,
+          "end": 53
+        }
+      ],
+      "position": 100
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 54,
+          "end": 56
+        }
+      ],
+      "position": 101
+    },
+    {
+      "word": "ownership",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 57,
+          "end": 66
+        }
+      ],
+      "position": 102
+    },
+    {
+      "word": "The",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 68,
+          "end": 71
+        }
+      ],
+      "position": 103
+    },
+    {
+      "word": "problem",
+      "spans": [
+        {
+          "region": 15,
+          "block": "BRAVE",
+          "letter": "A",
+          "start": 72,
+          "end": 79
+        }
+      ],
+      "position": 104
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 105
+    },
+    {
+      "word": "course",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 3,
+          "end": 9
+        }
+      ],
+      "position": 106
+    },
+    {
+      "word": "is",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 10,
+          "end": 12
+        }
+      ],
+      "position": 107
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 13,
+          "end": 16
+        }
+      ],
+      "position": 108
+    },
+    {
+      "word": "payee",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 17,
+          "end": 22
+        }
+      ],
+      "position": 109
+    },
+    {
+      "word": "can't",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 23,
+          "end": 28
+        }
+      ],
+      "position": 110
+    },
+    {
+      "word": "verify",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 29,
+          "end": 35
+        }
+      ],
+      "position": 111
+    },
+    {
+      "word": "that",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 36,
+          "end": 40
+        }
+      ],
+      "position": 112
+    },
+    {
+      "word": "one",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 41,
+          "end": 44
+        }
+      ],
+      "position": 113
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 45,
+          "end": 47
+        }
+      ],
+      "position": 114
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 48,
+          "end": 51
+        }
+      ],
+      "position": 115
+    },
+    {
+      "word": "owners",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 52,
+          "end": 58
+        }
+      ],
+      "position": 116
+    },
+    {
+      "word": "did",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 59,
+          "end": 62
+        }
+      ],
+      "position": 117
+    },
+    {
+      "word": "not",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 63,
+          "end": 66
+        }
+      ],
+      "position": 118
+    },
+    {
+      "word": "double",
+      "spans": [
+        {
+          "region": 16,
+          "block": "BRAVE",
+          "letter": "V",
+          "start": 67,
+          "end": 73
+        }
+      ],
+      "position": 119
+    },
+    {
+      "word": "spend",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "position": 120
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 6,
+          "end": 9
+        }
+      ],
+      "position": 121
+    },
+    {
+      "word": "coin",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 10,
+          "end": 14
+        }
+      ],
+      "position": 122
+    },
+    {
+      "word": "[A?]",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 16,
+          "end": 20
+        }
+      ],
+      "position": 123
+    },
+    {
+      "word": "common",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 21,
+          "end": 27
+        }
+      ],
+      "position": 124
+    },
+    {
+      "word": "solution",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 28,
+          "end": 36
+        }
+      ],
+      "position": 125
+    },
+    {
+      "word": "is",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 37,
+          "end": 39
+        }
+      ],
+      "position": 126
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 40,
+          "end": 42
+        }
+      ],
+      "position": 127
+    },
+    {
+      "word": "introdue",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 43,
+          "end": 51
+        }
+      ],
+      "position": 128
+    },
+    {
+      "word": "central",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 52,
+          "end": 56
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 57,
+          "end": 60
+        }
+      ],
+      "position": 129
+    },
+    {
+      "word": "authority",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 61,
+          "end": 63
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 64,
+          "end": 71
+        }
+      ],
+      "position": 130
+    },
+    {
+      "word": "or",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 73,
+          "end": 75
+        }
+      ],
+      "position": 131
+    },
+    {
+      "word": "mint",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 76,
+          "end": 80
+        }
+      ],
+      "position": 132
+    },
+    {
+      "word": "that",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 82,
+          "end": 86
+        }
+      ],
+      "position": 133
+    },
+    {
+      "word": "checks",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 87,
+          "end": 93
+        }
+      ],
+      "position": 134
+    },
+    {
+      "word": "every",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 94,
+          "end": 99
+        }
+      ],
+      "position": 135
+    },
+    {
+      "word": "transaction",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 100,
+          "end": 104
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 105,
+          "end": 110
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 111,
+          "end": 113
+        }
+      ],
+      "position": 136
+    },
+    {
+      "word": "for",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 114,
+          "end": 117
+        }
+      ],
+      "position": 137
+    },
+    {
+      "word": "double",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 118,
+          "end": 124
+        }
+      ],
+      "position": 138
+    },
+    {
+      "word": "spending",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 125,
+          "end": 129
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 130,
+          "end": 134
+        }
+      ],
+      "position": 139
+    },
+    {
+      "word": "After",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 136,
+          "end": 141
+        }
+      ],
+      "position": 140
+    },
+    {
+      "word": "each",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "position": 141
+    },
+    {
+      "word": "transaction",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 5,
+          "end": 16
+        }
+      ],
+      "position": 142
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "position": 143
+    },
+    {
+      "word": "coin",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 22,
+          "end": 26
+        }
+      ],
+      "position": 144
+    },
+    {
+      "word": "must",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 27,
+          "end": 31
+        }
+      ],
+      "position": 145
+    },
+    {
+      "word": "be",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 32,
+          "end": 34
+        }
+      ],
+      "position": 146
+    },
+    {
+      "word": "returned",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 35,
+          "end": 43
+        }
+      ],
+      "position": 147
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 44,
+          "end": 46
+        }
+      ],
+      "position": 148
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 47,
+          "end": 50
+        }
+      ],
+      "position": 149
+    },
+    {
+      "word": "mint",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 51,
+          "end": 55
+        }
+      ],
+      "position": 150
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 18,
+          "block": "NEW",
+          "letter": "N",
+          "start": 56,
+          "end": 58
+        }
+      ],
+      "position": 151
+    },
+    {
+      "word": "issue",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "position": 152
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 6,
+          "end": 7
+        }
+      ],
+      "position": 153
+    },
+    {
+      "word": "new",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 8,
+          "end": 11
+        }
+      ],
+      "position": 154
+    },
+    {
+      "word": "coin",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 12,
+          "end": 16
+        }
+      ],
+      "position": 155
+    },
+    {
+      "word": "and",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "position": 156
+    },
+    {
+      "word": "only",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 22,
+          "end": 26
+        }
+      ],
+      "position": 157
+    },
+    {
+      "word": "coins",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 27,
+          "end": 32
+        }
+      ],
+      "position": 158
+    },
+    {
+      "word": "issued",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 33,
+          "end": 39
+        }
+      ],
+      "position": 159
+    },
+    {
+      "word": "directly",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 40,
+          "end": 48
+        }
+      ],
+      "position": 160
+    },
+    {
+      "word": "from",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 49,
+          "end": 53
+        }
+      ],
+      "position": 161
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 54,
+          "end": 57
+        }
+      ],
+      "position": 162
+    },
+    {
+      "word": "mint",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 58,
+          "end": 62
+        }
+      ],
+      "position": 163
+    },
+    {
+      "word": "are",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 63,
+          "end": 66
+        }
+      ],
+      "position": 164
+    },
+    {
+      "word": "trusted",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 67,
+          "end": 74
+        }
+      ],
+      "position": 165
+    },
+    {
+      "word": "not",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 75,
+          "end": 78
+        }
+      ],
+      "position": 166
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 79,
+          "end": 81
+        }
+      ],
+      "position": 167
+    },
+    {
+      "word": "be",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 82,
+          "end": 84
+        }
+      ],
+      "position": 168
+    },
+    {
+      "word": "doudle-spent",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 85,
+          "end": 88
+        },
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 89,
+          "end": 93
+        },
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 94,
+          "end": 99
+        }
+      ],
+      "position": 169
+    },
+    {
+      "word": "The",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 101,
+          "end": 104
+        }
+      ],
+      "position": 170
+    },
+    {
+      "word": "problem",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 105,
+          "end": 112
+        }
+      ],
+      "position": 171
+    },
+    {
+      "word": "with",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 113,
+          "end": 117
+        }
+      ],
+      "position": 172
+    },
+    {
+      "word": "this",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "position": 173
+    },
+    {
+      "word": "solution",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 5,
+          "end": 13
+        }
+      ],
+      "position": 174
+    },
+    {
+      "word": "is",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 14,
+          "end": 16
+        }
+      ],
+      "position": 175
+    },
+    {
+      "word": "that",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 17,
+          "end": 21
+        }
+      ],
+      "position": 176
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 22,
+          "end": 25
+        }
+      ],
+      "position": 177
+    },
+    {
+      "word": "fate",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 26,
+          "end": 30
+        }
+      ],
+      "position": 178
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 31,
+          "end": 33
+        }
+      ],
+      "position": 179
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 34,
+          "end": 37
+        }
+      ],
+      "position": 180
+    },
+    {
+      "word": "entire",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 38,
+          "end": 44
+        }
+      ],
+      "position": 181
+    },
+    {
+      "word": "money",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 45,
+          "end": 50
+        }
+      ],
+      "position": 182
+    },
+    {
+      "word": "system",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 51,
+          "end": 57
+        }
+      ],
+      "position": 183
+    },
+    {
+      "word": "depends",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 58,
+          "end": 65
+        }
+      ],
+      "position": 184
+    },
+    {
+      "word": "on",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 66,
+          "end": 68
+        }
+      ],
+      "position": 185
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 69,
+          "end": 72
+        }
+      ],
+      "position": 186
+    },
+    {
+      "word": "company",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 73,
+          "end": 80
+        }
+      ],
+      "position": 187
+    },
+    {
+      "word": "running",
+      "spans": [
+        {
+          "region": 20,
+          "block": "NEW",
+          "letter": "W",
+          "start": 81,
+          "end": 88
+        }
+      ],
+      "position": 188
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "position": 189
+    },
+    {
+      "word": "mint",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 4,
+          "end": 8
+        }
+      ],
+      "position": 190
+    },
+    {
+      "word": "with",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 10,
+          "end": 14
+        }
+      ],
+      "position": 191
+    },
+    {
+      "word": "every",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 15,
+          "end": 20
+        }
+      ],
+      "position": 192
+    },
+    {
+      "word": "transaction",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 21,
+          "end": 32
+        }
+      ],
+      "position": 193
+    },
+    {
+      "word": "having",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 33,
+          "end": 39
+        }
+      ],
+      "position": 194
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 40,
+          "end": 42
+        }
+      ],
+      "position": 195
+    },
+    {
+      "word": "go",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 43,
+          "end": 45
+        }
+      ],
+      "position": 196
+    },
+    {
+      "word": "through",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 46,
+          "end": 53
+        }
+      ],
+      "position": 197
+    },
+    {
+      "word": "them",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 54,
+          "end": 58
+        }
+      ],
+      "position": 198
+    },
+    {
+      "word": "just",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 60,
+          "end": 64
+        }
+      ],
+      "position": 199
+    },
+    {
+      "word": "like",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 65,
+          "end": 69
+        }
+      ],
+      "position": 200
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 70,
+          "end": 71
+        }
+      ],
+      "position": 201
+    },
+    {
+      "word": "bank",
+      "spans": [
+        {
+          "region": 21,
+          "block": "WORLD",
+          "letter": "W",
+          "start": 72,
+          "end": 76
+        }
+      ],
+      "position": 202
+    },
+    {
+      "word": "We",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 0,
+          "end": 2
+        }
+      ],
+      "position": 203
+    },
+    {
+      "word": "need",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 3,
+          "end": 7
+        }
+      ],
+      "position": 204
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 8,
+          "end": 9
+        }
+      ],
+      "position": 205
+    },
+    {
+      "word": "way",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 10,
+          "end": 13
+        }
+      ],
+      "position": 206
+    },
+    {
+      "word": "for",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 14,
+          "end": 17
+        }
+      ],
+      "position": 207
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "position": 208
+    },
+    {
+      "word": "payee",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 22,
+          "end": 27
+        }
+      ],
+      "position": 209
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 28,
+          "end": 30
+        }
+      ],
+      "position": 210
+    },
+    {
+      "word": "know",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 31,
+          "end": 35
+        }
+      ],
+      "position": 211
+    },
+    {
+      "word": "that",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 36,
+          "end": 40
+        }
+      ],
+      "position": 212
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 41,
+          "end": 44
+        }
+      ],
+      "position": 213
+    },
+    {
+      "word": "previous",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 45,
+          "end": 53
+        }
+      ],
+      "position": 214
+    },
+    {
+      "word": "owners",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 54,
+          "end": 60
+        }
+      ],
+      "position": 215
+    },
+    {
+      "word": "did",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 61,
+          "end": 64
+        }
+      ],
+      "position": 216
+    },
+    {
+      "word": "not",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 65,
+          "end": 68
+        }
+      ],
+      "position": 217
+    },
+    {
+      "word": "sing",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 69,
+          "end": 73
+        }
+      ],
+      "position": 218
+    },
+    {
+      "word": "any",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 74,
+          "end": 77
+        }
+      ],
+      "position": 219
+    },
+    {
+      "word": "earlier",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 78,
+          "end": 85
+        }
+      ],
+      "position": 220
+    },
+    {
+      "word": "transactions",
+      "spans": [
+        {
+          "region": 22,
+          "block": "WORLD",
+          "letter": "O",
+          "start": 86,
+          "end": 98
+        }
+      ],
+      "position": 221
+    },
+    {
+      "word": "For",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "position": 222
+    },
+    {
+      "word": "our",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 4,
+          "end": 7
+        }
+      ],
+      "position": 223
+    },
+    {
+      "word": "purposes",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 8,
+          "end": 16
+        }
+      ],
+      "position": 224
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "position": 225
+    },
+    {
+      "word": "earliest",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 22,
+          "end": 30
+        }
+      ],
+      "position": 226
+    },
+    {
+      "word": "transaction",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 31,
+          "end": 42
+        }
+      ],
+      "position": 227
+    },
+    {
+      "word": "is",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 43,
+          "end": 45
+        }
+      ],
+      "position": 228
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 46,
+          "end": 49
+        }
+      ],
+      "position": 229
+    },
+    {
+      "word": "one",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 50,
+          "end": 53
+        }
+      ],
+      "position": 230
+    },
+    {
+      "word": "that",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 54,
+          "end": 58
+        }
+      ],
+      "position": 231
+    },
+    {
+      "word": "counts",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 59,
+          "end": 65
+        }
+      ],
+      "position": 232
+    },
+    {
+      "word": "so",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 67,
+          "end": 69
+        }
+      ],
+      "position": 233
+    },
+    {
+      "word": "we",
+      "spans": [
+        {
+          "region": 23,
+          "block": "WORLD",
+          "letter": "R",
+          "start": 70,
+          "end": 72
+        }
+      ],
+      "position": 234
+    },
+    {
+      "word": "don't",
+      "spans": [
+        {
+          "region": 24,
+          "block": "WORLD",
+          "letter": "L",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "position": 235
+    },
+    {
+      "word": "care",
+      "spans": [
+        {
+          "region": 24,
+          "block": "WORLD",
+          "letter": "L",
+          "start": 6,
+          "end": 10
+        }
+      ],
+      "position": 236
+    },
+    {
+      "word": "about",
+      "spans": [
+        {
+          "region": 24,
+          "block": "WORLD",
+          "letter": "L",
+          "start": 11,
+          "end": 16
+        }
+      ],
+      "position": 237
+    },
+    {
+      "word": "later",
+      "spans": [
+        {
+          "region": 24,
+          "block": "WORLD",
+          "letter": "L",
+          "start": 17,
+          "end": 22
+        }
+      ],
+      "position": 238
+    },
+    {
+      "word": "attempts",
+      "spans": [
+        {
+          "region": 24,
+          "block": "WORLD",
+          "letter": "L",
+          "start": 23,
+          "end": 31
+        }
+      ],
+      "position": 239
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 24,
+          "block": "WORLD",
+          "letter": "L",
+          "start": 32,
+          "end": 34
+        }
+      ],
+      "position": 240
+    },
+    {
+      "word": "double-spend",
+      "spans": [
+        {
+          "region": 24,
+          "block": "WORLD",
+          "letter": "L",
+          "start": 35,
+          "end": 47
+        }
+      ],
+      "position": 241
+    },
+    {
+      "word": "The",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "position": 242
+    },
+    {
+      "word": "only",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 4,
+          "end": 8
+        }
+      ],
+      "position": 243
+    },
+    {
+      "word": "way",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 9,
+          "end": 12
+        }
+      ],
+      "position": 244
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 13,
+          "end": 15
+        }
+      ],
+      "position": 245
+    },
+    {
+      "word": "confirm",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 16,
+          "end": 23
+        }
+      ],
+      "position": 246
+    },
+    {
+      "word": "the",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 24,
+          "end": 27
+        }
+      ],
+      "position": 247
+    },
+    {
+      "word": "abcense",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 28,
+          "end": 35
+        }
+      ],
+      "position": 248
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 36,
+          "end": 38
+        }
+      ],
+      "position": 249
+    },
+    {
+      "word": "a",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 39,
+          "end": 40
+        }
+      ],
+      "position": 250
+    },
+    {
+      "word": "transaction",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 41,
+          "end": 52
+        }
+      ],
+      "position": 251
+    },
+    {
+      "word": "is",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 53,
+          "end": 55
+        }
+      ],
+      "position": 252
+    },
+    {
+      "word": "to",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 56,
+          "end": 58
+        }
+      ],
+      "position": 253
+    },
+    {
+      "word": "be",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 59,
+          "end": 61
+        }
+      ],
+      "position": 254
+    },
+    {
+      "word": "aware",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 62,
+          "end": 67
+        }
+      ],
+      "position": 255
+    },
+    {
+      "word": "of",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 68,
+          "end": 70
+        }
+      ],
+      "position": 256
+    },
+    {
+      "word": "all",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 71,
+          "end": 74
+        }
+      ],
+      "position": 257
+    },
+    {
+      "word": "transactions",
+      "spans": [
+        {
+          "region": 25,
+          "block": "WORLD",
+          "letter": "D",
+          "start": 75,
+          "end": 87
+        }
+      ],
+      "position": 258
+    }
+  ],
+  "fragmentJoins": [
+    {
+      "pieces": [
+        "transac",
+        "tions"
+      ],
+      "joined": "transactions",
+      "spans": [
+        {
+          "region": 3,
+          "block": "WELCOME",
+          "letter": "L",
+          "start": 7,
+          "end": 14
+        },
+        {
+          "region": 4,
+          "block": "WELCOME",
+          "letter": "C",
+          "start": 0,
+          "end": 5
+        }
+      ]
+    },
+    {
+      "pieces": [
+        "transac",
+        "tions"
+      ],
+      "joined": "transactions",
+      "spans": [
+        {
+          "region": 7,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 7,
+          "end": 14
+        },
+        {
+          "region": 7,
+          "block": "WELCOME",
+          "letter": "E",
+          "start": 15,
+          "end": 20
+        }
+      ]
+    },
+    {
+      "pieces": [
+        "an",
+        "nounced"
+      ],
+      "joined": "announced",
+      "spans": [
+        {
+          "region": 8,
+          "block": "TO",
+          "letter": "T",
+          "start": 12,
+          "end": 14
+        },
+        {
+          "region": 9,
+          "block": "TO",
+          "letter": "O",
+          "start": 0,
+          "end": 7
+        }
+      ]
+    },
+    {
+      "pieces": [
+        "cent",
+        "ral"
+      ],
+      "joined": "central",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 52,
+          "end": 56
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 57,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "pieces": [
+        "au",
+        "thority"
+      ],
+      "joined": "authority",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 61,
+          "end": 63
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 64,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "pieces": [
+        "tran",
+        "sacti",
+        "on"
+      ],
+      "joined": "transaction",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 100,
+          "end": 104
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 105,
+          "end": 110
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 111,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "pieces": [
+        "spen",
+        "ding"
+      ],
+      "joined": "spending",
+      "spans": [
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 125,
+          "end": 129
+        },
+        {
+          "region": 17,
+          "block": "BRAVE",
+          "letter": "E",
+          "start": 130,
+          "end": 134
+        }
+      ]
+    },
+    {
+      "pieces": [
+        "dou",
+        "dle-",
+        "spent"
+      ],
+      "joined": "doudle-spent",
+      "spans": [
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 85,
+          "end": 88
+        },
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 89,
+          "end": 93
+        },
+        {
+          "region": 19,
+          "block": "NEW",
+          "letter": "E",
+          "start": 94,
+          "end": 99
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "rule": "First word per region",
+      "positions": [
+        1,
+        6,
+        10,
+        13,
+        15,
+        18,
+        24,
+        27,
+        30,
+        32,
+        35,
+        37,
+        46,
+        62,
+        91,
+        105,
+        120,
+        141,
+        152,
+        173,
+        189,
+        203,
+        222,
+        235,
+        242
+      ],
+      "output": "In the of and which To party be and need for to We to A of spend each issue this the We For don't The"
+    },
+    {
+      "rule": "Last word per region",
+      "positions": [
+        5,
+        9,
+        12,
+        14,
+        17,
+        23,
+        26,
+        29,
+        31,
+        34,
+        36,
+        45,
+        61,
+        90,
+        104,
+        119,
+        140,
+        151,
+        172,
+        188,
+        202,
+        221,
+        234,
+        241,
+        258
+      ],
+      "output": "model aware transactions decided first trusted must announced we system participans order coin coin problem double After to with running bank transactions we double-spend transactions"
+    },
+    {
+      "rule": "Odd words across displayed order",
+      "positions": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59,
+        61,
+        63,
+        65,
+        67,
+        69,
+        71,
+        73,
+        75,
+        77,
+        79,
+        81,
+        83,
+        85,
+        87,
+        89,
+        91,
+        93,
+        95,
+        97,
+        99,
+        101,
+        103,
+        105,
+        107,
+        109,
+        111,
+        113,
+        115,
+        117,
+        119,
+        121,
+        123,
+        125,
+        127,
+        129,
+        131,
+        133,
+        135,
+        137,
+        139,
+        141,
+        143,
+        145,
+        147,
+        149,
+        151,
+        153,
+        155,
+        157,
+        159,
+        161,
+        163,
+        165,
+        167,
+        169,
+        171,
+        173,
+        175,
+        177,
+        179,
+        181,
+        183,
+        185,
+        187,
+        189,
+        191,
+        193,
+        195,
+        197,
+        199,
+        201,
+        203,
+        205,
+        207,
+        209,
+        211,
+        213,
+        215,
+        217,
+        219,
+        221,
+        223,
+        225,
+        227,
+        229,
+        231,
+        233,
+        235,
+        237,
+        239,
+        241,
+        243,
+        245,
+        247,
+        249,
+        251,
+        253,
+        255,
+        257
+      ],
+      "output": "In mint model mint aware all and which first accomplish without trusted transactions be announced we a for to on single of order define electronic as chain digital Each transfers coin the by signing hash the transaction the key the owner adding to end the A can the to the of The of is payee verify one the did double the [A?] solution to central or that every for spending each the must returned the to a coin only issued from mint trusted to doudle-spent problem this is the of entire system on company the with transaction to through just a We a for payee know the owners not any transactions our the transaction the that so don't about attempts double-spend only to the of transaction to aware all"
+    },
+    {
+      "rule": "Even words across displayed order",
+      "positions": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        86,
+        88,
+        90,
+        92,
+        94,
+        96,
+        98,
+        100,
+        102,
+        104,
+        106,
+        108,
+        110,
+        112,
+        114,
+        116,
+        118,
+        120,
+        122,
+        124,
+        126,
+        128,
+        130,
+        132,
+        134,
+        136,
+        138,
+        140,
+        142,
+        144,
+        146,
+        148,
+        150,
+        152,
+        154,
+        156,
+        158,
+        160,
+        162,
+        164,
+        166,
+        168,
+        170,
+        172,
+        174,
+        176,
+        178,
+        180,
+        182,
+        184,
+        186,
+        188,
+        190,
+        192,
+        194,
+        196,
+        198,
+        200,
+        202,
+        204,
+        206,
+        208,
+        210,
+        212,
+        214,
+        216,
+        218,
+        220,
+        222,
+        224,
+        226,
+        228,
+        230,
+        232,
+        234,
+        236,
+        238,
+        240,
+        242,
+        244,
+        246,
+        248,
+        250,
+        252,
+        254,
+        256,
+        258
+      ],
+      "output": "the based the was of transactions decided arrived To this a party must publicly and need system participans agree a history the We an coin a of signatures owner the to next digitally a of previous and public of next and these the of coin payee verify signatures verify chain ownership problem course the can't that of owners not spend coin common is introdue authority mint checks transaction double After transaction coin be to mint issue new and coins directly the are not be The with solution that fate the money depends the running mint every having go them like bank need way the to that previous did sing earlier For purposes earliest is one counts we care later to The way confirm abcense a is be of transactions"
+    },
+    {
+      "rule": "Reverse words across displayed order",
+      "positions": [
+        258,
+        257,
+        256,
+        255,
+        254,
+        253,
+        252,
+        251,
+        250,
+        249,
+        248,
+        247,
+        246,
+        245,
+        244,
+        243,
+        242,
+        241,
+        240,
+        239,
+        238,
+        237,
+        236,
+        235,
+        234,
+        233,
+        232,
+        231,
+        230,
+        229,
+        228,
+        227,
+        226,
+        225,
+        224,
+        223,
+        222,
+        221,
+        220,
+        219,
+        218,
+        217,
+        216,
+        215,
+        214,
+        213,
+        212,
+        211,
+        210,
+        209,
+        208,
+        207,
+        206,
+        205,
+        204,
+        203,
+        202,
+        201,
+        200,
+        199,
+        198,
+        197,
+        196,
+        195,
+        194,
+        193,
+        192,
+        191,
+        190,
+        189,
+        188,
+        187,
+        186,
+        185,
+        184,
+        183,
+        182,
+        181,
+        180,
+        179,
+        178,
+        177,
+        176,
+        175,
+        174,
+        173,
+        172,
+        171,
+        170,
+        169,
+        168,
+        167,
+        166,
+        165,
+        164,
+        163,
+        162,
+        161,
+        160,
+        159,
+        158,
+        157,
+        156,
+        155,
+        154,
+        153,
+        152,
+        151,
+        150,
+        149,
+        148,
+        147,
+        146,
+        145,
+        144,
+        143,
+        142,
+        141,
+        140,
+        139,
+        138,
+        137,
+        136,
+        135,
+        134,
+        133,
+        132,
+        131,
+        130,
+        129,
+        128,
+        127,
+        126,
+        125,
+        124,
+        123,
+        122,
+        121,
+        120,
+        119,
+        118,
+        117,
+        116,
+        115,
+        114,
+        113,
+        112,
+        111,
+        110,
+        109,
+        108,
+        107,
+        106,
+        105,
+        104,
+        103,
+        102,
+        101,
+        100,
+        99,
+        98,
+        97,
+        96,
+        95,
+        94,
+        93,
+        92,
+        91,
+        90,
+        89,
+        88,
+        87,
+        86,
+        85,
+        84,
+        83,
+        82,
+        81,
+        80,
+        79,
+        78,
+        77,
+        76,
+        75,
+        74,
+        73,
+        72,
+        71,
+        70,
+        69,
+        68,
+        67,
+        66,
+        65,
+        64,
+        63,
+        62,
+        61,
+        60,
+        59,
+        58,
+        57,
+        56,
+        55,
+        54,
+        53,
+        52,
+        51,
+        50,
+        49,
+        48,
+        47,
+        46,
+        45,
+        44,
+        43,
+        42,
+        41,
+        40,
+        39,
+        38,
+        37,
+        36,
+        35,
+        34,
+        33,
+        32,
+        31,
+        30,
+        29,
+        28,
+        27,
+        26,
+        25,
+        24,
+        23,
+        22,
+        21,
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "output": "transactions all of aware be to is transaction a of abcense the confirm to way only The double-spend to attempts later about care don't we so counts that one the is transaction earliest the purposes our For transactions earlier any sing not did owners previous the that know to payee the for way a need We bank a like just them through go to having transaction every with mint the running company the on depends system money entire the of fate the that is solution this with problem The doudle-spent be to not trusted are mint the from directly issued coins only and coin new a issue to mint the to returned be must coin the transaction each After spending double for transaction every checks that mint or authority central introdue to is solution common [A?] coin the spend double not did owners the of one that verify can't payee the is course of problem The ownership of chain the verify to signatures the verify can payee A coin the of end the to these adding and owner next the of key public the and transaction previous the of hash a signing digitally by next the to coin the transfers owner Each signatures digital of chain a as coin electronic an define We order the of history single a on agree to participans for system a need we and announced publicly be must transactions party trusted a without this accomplish To first arrived which decided and transactions all of aware was mint the model based mint the In"
+    },
+    {
+      "rule": "Odd regions first words",
+      "positions": [
+        1,
+        10,
+        15,
+        24,
+        30,
+        35,
+        46,
+        91,
+        120,
+        152,
+        189,
+        222,
+        242
+      ],
+      "output": "In of which party and for We A spend issue the For The"
+    },
+    {
+      "rule": "Even regions first words",
+      "positions": [
+        6,
+        13,
+        18,
+        27,
+        32,
+        37,
+        62,
+        105,
+        141,
+        173,
+        203,
+        235
+      ],
+      "output": "the and To be need to to of each this We don't"
+    },
+    {
+      "rule": "Rotate twelve word blocks one position",
+      "positions": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        13,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        25,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        37,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        49,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        61,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        73,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        85,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        97,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        109,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        121,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        133,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        145,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        157,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        169,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        181,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        193,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        205,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        217,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        229,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        241,
+        254,
+        255,
+        256,
+        257,
+        258,
+        253
+      ],
+      "output": "the mint based model the mint was aware of all transactions In decided which arrived first To accomplish this without a trusted party and must be publicly announced and we need a system for participans transactions agree on a single history of the order We define an to coin as a chain of digital signatures Each owner transfers the electronic to the next by digitally signing a hash of the previous coin and the public key of the next owner and adding these transaction the end of the coin A payee can verify the signatures to verify the chain of ownership The problem of course is the to can't verify that one of the owners did not double spend payee coin [A?] common solution is to introdue central authority or mint the checks every transaction for double spending After each transaction the coin that be returned to the mint to issue a new coin and must coins issued directly from the mint are trusted not to be only The problem with this solution is that the fate of the doudle-spent money system depends on the company running the mint with every entire having to go through them just like a bank We need transaction way for the payee to know that the previous owners did a sing any earlier transactions For our purposes the earliest transaction is not one that counts so we don't care about later attempts to the The only way to confirm the abcense of a transaction is double-spend be aware of all transactions to"
+    },
+    {
+      "rule": "Alternate twelve word blocks",
+      "positions": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        38,
+        40,
+        42,
+        44,
+        46,
+        48,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        61,
+        63,
+        65,
+        67,
+        69,
+        71,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        73,
+        75,
+        77,
+        79,
+        81,
+        83,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        85,
+        87,
+        89,
+        91,
+        93,
+        95,
+        86,
+        88,
+        90,
+        92,
+        94,
+        96,
+        97,
+        99,
+        101,
+        103,
+        105,
+        107,
+        98,
+        100,
+        102,
+        104,
+        106,
+        108,
+        109,
+        111,
+        113,
+        115,
+        117,
+        119,
+        110,
+        112,
+        114,
+        116,
+        118,
+        120,
+        121,
+        123,
+        125,
+        127,
+        129,
+        131,
+        122,
+        124,
+        126,
+        128,
+        130,
+        132,
+        133,
+        135,
+        137,
+        139,
+        141,
+        143,
+        134,
+        136,
+        138,
+        140,
+        142,
+        144,
+        145,
+        147,
+        149,
+        151,
+        153,
+        155,
+        146,
+        148,
+        150,
+        152,
+        154,
+        156,
+        157,
+        159,
+        161,
+        163,
+        165,
+        167,
+        158,
+        160,
+        162,
+        164,
+        166,
+        168,
+        169,
+        171,
+        173,
+        175,
+        177,
+        179,
+        170,
+        172,
+        174,
+        176,
+        178,
+        180,
+        181,
+        183,
+        185,
+        187,
+        189,
+        191,
+        182,
+        184,
+        186,
+        188,
+        190,
+        192,
+        193,
+        195,
+        197,
+        199,
+        201,
+        203,
+        194,
+        196,
+        198,
+        200,
+        202,
+        204,
+        205,
+        207,
+        209,
+        211,
+        213,
+        215,
+        206,
+        208,
+        210,
+        212,
+        214,
+        216,
+        217,
+        219,
+        221,
+        223,
+        225,
+        227,
+        218,
+        220,
+        222,
+        224,
+        226,
+        228,
+        229,
+        231,
+        233,
+        235,
+        237,
+        239,
+        230,
+        232,
+        234,
+        236,
+        238,
+        240,
+        241,
+        243,
+        245,
+        247,
+        249,
+        251,
+        242,
+        244,
+        246,
+        248,
+        250,
+        252,
+        253,
+        255,
+        257,
+        254,
+        256,
+        258
+      ],
+      "output": "In mint model mint aware all the based the was of transactions and which first accomplish without trusted decided arrived To this a party transactions be announced we a for must publicly and need system participans to on single of order define agree a history the We an electronic as chain digital Each transfers coin a of signatures owner the coin the by signing hash the to next digitally a of previous transaction the key the owner adding and public of next and these to end the A can the the of coin payee verify signatures to the of The of is verify chain ownership problem course the payee verify one the did double can't that of owners not spend the [A?] solution to central or coin common is introdue authority mint that every for spending each the checks transaction double After transaction coin must returned the to a coin be to mint issue new and only issued from mint trusted to coins directly the are not be doudle-spent problem this is the of The with solution that fate the entire system on company the with money depends the running mint every transaction to through just a We having go them like bank need a for payee know the owners way the to that previous did not any transactions our the transaction sing earlier For purposes earliest is the that so don't about attempts one counts we care later to double-spend only to the of transaction The way confirm abcense a is to aware all be of transactions"
+    }
+  ],
+  "regions": [
+    {
+      "index": 1,
+      "block": "WELCOME",
+      "letter": "W",
+      "oddWords": [
+        1,
+        3,
+        5
+      ],
+      "evenWords": [
+        2,
+        4
+      ],
+      "reverseWords": [
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "index": 2,
+      "block": "WELCOME",
+      "letter": "E",
+      "oddWords": [
+        6,
+        8
+      ],
+      "evenWords": [
+        7,
+        9
+      ],
+      "reverseWords": [
+        9,
+        8,
+        7,
+        6
+      ]
+    },
+    {
+      "index": 3,
+      "block": "WELCOME",
+      "letter": "L",
+      "oddWords": [
+        10,
+        12
+      ],
+      "evenWords": [
+        11
+      ],
+      "reverseWords": [
+        12,
+        11,
+        10
+      ]
+    },
+    {
+      "index": 4,
+      "block": "WELCOME",
+      "letter": "C",
+      "oddWords": [
+        13
+      ],
+      "evenWords": [
+        14
+      ],
+      "reverseWords": [
+        14,
+        13
+      ]
+    },
+    {
+      "index": 5,
+      "block": "WELCOME",
+      "letter": "O",
+      "oddWords": [
+        15,
+        17
+      ],
+      "evenWords": [
+        16
+      ],
+      "reverseWords": [
+        17,
+        16,
+        15
+      ]
+    },
+    {
+      "index": 6,
+      "block": "WELCOME",
+      "letter": "M",
+      "oddWords": [
+        18,
+        20,
+        22
+      ],
+      "evenWords": [
+        19,
+        21,
+        23
+      ],
+      "reverseWords": [
+        23,
+        22,
+        21,
+        20,
+        19,
+        18
+      ]
+    },
+    {
+      "index": 7,
+      "block": "WELCOME",
+      "letter": "E",
+      "oddWords": [
+        24,
+        26
+      ],
+      "evenWords": [
+        25
+      ],
+      "reverseWords": [
+        26,
+        25,
+        24
+      ]
+    },
+    {
+      "index": 8,
+      "block": "TO",
+      "letter": "T",
+      "oddWords": [
+        27,
+        29
+      ],
+      "evenWords": [
+        28
+      ],
+      "reverseWords": [
+        29,
+        28,
+        27
+      ]
+    },
+    {
+      "index": 9,
+      "block": "TO",
+      "letter": "O",
+      "oddWords": [
+        30
+      ],
+      "evenWords": [
+        31
+      ],
+      "reverseWords": [
+        31,
+        30
+      ]
+    },
+    {
+      "index": 10,
+      "block": "THE",
+      "letter": "T",
+      "oddWords": [
+        32,
+        34
+      ],
+      "evenWords": [
+        33
+      ],
+      "reverseWords": [
+        34,
+        33,
+        32
+      ]
+    },
+    {
+      "index": 11,
+      "block": "THE",
+      "letter": "H",
+      "oddWords": [
+        35
+      ],
+      "evenWords": [
+        36
+      ],
+      "reverseWords": [
+        36,
+        35
+      ]
+    },
+    {
+      "index": 12,
+      "block": "THE",
+      "letter": "E",
+      "oddWords": [
+        37,
+        39,
+        41,
+        43,
+        45
+      ],
+      "evenWords": [
+        38,
+        40,
+        42,
+        44
+      ],
+      "reverseWords": [
+        45,
+        44,
+        43,
+        42,
+        41,
+        40,
+        39,
+        38,
+        37
+      ]
+    },
+    {
+      "index": 13,
+      "block": "BRAVE",
+      "letter": "B",
+      "oddWords": [
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60
+      ],
+      "evenWords": [
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59,
+        61
+      ],
+      "reverseWords": [
+        61,
+        60,
+        59,
+        58,
+        57,
+        56,
+        55,
+        54,
+        53,
+        52,
+        51,
+        50,
+        49,
+        48,
+        47,
+        46
+      ]
+    },
+    {
+      "index": 14,
+      "block": "BRAVE",
+      "letter": "R",
+      "oddWords": [
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        86,
+        88,
+        90
+      ],
+      "evenWords": [
+        63,
+        65,
+        67,
+        69,
+        71,
+        73,
+        75,
+        77,
+        79,
+        81,
+        83,
+        85,
+        87,
+        89
+      ],
+      "reverseWords": [
+        90,
+        89,
+        88,
+        87,
+        86,
+        85,
+        84,
+        83,
+        82,
+        81,
+        80,
+        79,
+        78,
+        77,
+        76,
+        75,
+        74,
+        73,
+        72,
+        71,
+        70,
+        69,
+        68,
+        67,
+        66,
+        65,
+        64,
+        63,
+        62
+      ]
+    },
+    {
+      "index": 15,
+      "block": "BRAVE",
+      "letter": "A",
+      "oddWords": [
+        91,
+        93,
+        95,
+        97,
+        99,
+        101,
+        103
+      ],
+      "evenWords": [
+        92,
+        94,
+        96,
+        98,
+        100,
+        102,
+        104
+      ],
+      "reverseWords": [
+        104,
+        103,
+        102,
+        101,
+        100,
+        99,
+        98,
+        97,
+        96,
+        95,
+        94,
+        93,
+        92,
+        91
+      ]
+    },
+    {
+      "index": 16,
+      "block": "BRAVE",
+      "letter": "V",
+      "oddWords": [
+        105,
+        107,
+        109,
+        111,
+        113,
+        115,
+        117,
+        119
+      ],
+      "evenWords": [
+        106,
+        108,
+        110,
+        112,
+        114,
+        116,
+        118
+      ],
+      "reverseWords": [
+        119,
+        118,
+        117,
+        116,
+        115,
+        114,
+        113,
+        112,
+        111,
+        110,
+        109,
+        108,
+        107,
+        106,
+        105
+      ]
+    },
+    {
+      "index": 17,
+      "block": "BRAVE",
+      "letter": "E",
+      "oddWords": [
+        120,
+        122,
+        124,
+        126,
+        128,
+        130,
+        132,
+        134,
+        136,
+        138,
+        140
+      ],
+      "evenWords": [
+        121,
+        123,
+        125,
+        127,
+        129,
+        131,
+        133,
+        135,
+        137,
+        139
+      ],
+      "reverseWords": [
+        140,
+        139,
+        138,
+        137,
+        136,
+        135,
+        134,
+        133,
+        132,
+        131,
+        130,
+        129,
+        128,
+        127,
+        126,
+        125,
+        124,
+        123,
+        122,
+        121,
+        120
+      ]
+    },
+    {
+      "index": 18,
+      "block": "NEW",
+      "letter": "N",
+      "oddWords": [
+        141,
+        143,
+        145,
+        147,
+        149,
+        151
+      ],
+      "evenWords": [
+        142,
+        144,
+        146,
+        148,
+        150
+      ],
+      "reverseWords": [
+        151,
+        150,
+        149,
+        148,
+        147,
+        146,
+        145,
+        144,
+        143,
+        142,
+        141
+      ]
+    },
+    {
+      "index": 19,
+      "block": "NEW",
+      "letter": "E",
+      "oddWords": [
+        152,
+        154,
+        156,
+        158,
+        160,
+        162,
+        164,
+        166,
+        168,
+        170,
+        172
+      ],
+      "evenWords": [
+        153,
+        155,
+        157,
+        159,
+        161,
+        163,
+        165,
+        167,
+        169,
+        171
+      ],
+      "reverseWords": [
+        172,
+        171,
+        170,
+        169,
+        168,
+        167,
+        166,
+        165,
+        164,
+        163,
+        162,
+        161,
+        160,
+        159,
+        158,
+        157,
+        156,
+        155,
+        154,
+        153,
+        152
+      ]
+    },
+    {
+      "index": 20,
+      "block": "NEW",
+      "letter": "W",
+      "oddWords": [
+        173,
+        175,
+        177,
+        179,
+        181,
+        183,
+        185,
+        187
+      ],
+      "evenWords": [
+        174,
+        176,
+        178,
+        180,
+        182,
+        184,
+        186,
+        188
+      ],
+      "reverseWords": [
+        188,
+        187,
+        186,
+        185,
+        184,
+        183,
+        182,
+        181,
+        180,
+        179,
+        178,
+        177,
+        176,
+        175,
+        174,
+        173
+      ]
+    },
+    {
+      "index": 21,
+      "block": "WORLD",
+      "letter": "W",
+      "oddWords": [
+        189,
+        191,
+        193,
+        195,
+        197,
+        199,
+        201
+      ],
+      "evenWords": [
+        190,
+        192,
+        194,
+        196,
+        198,
+        200,
+        202
+      ],
+      "reverseWords": [
+        202,
+        201,
+        200,
+        199,
+        198,
+        197,
+        196,
+        195,
+        194,
+        193,
+        192,
+        191,
+        190,
+        189
+      ]
+    },
+    {
+      "index": 22,
+      "block": "WORLD",
+      "letter": "O",
+      "oddWords": [
+        203,
+        205,
+        207,
+        209,
+        211,
+        213,
+        215,
+        217,
+        219,
+        221
+      ],
+      "evenWords": [
+        204,
+        206,
+        208,
+        210,
+        212,
+        214,
+        216,
+        218,
+        220
+      ],
+      "reverseWords": [
+        221,
+        220,
+        219,
+        218,
+        217,
+        216,
+        215,
+        214,
+        213,
+        212,
+        211,
+        210,
+        209,
+        208,
+        207,
+        206,
+        205,
+        204,
+        203
+      ]
+    },
+    {
+      "index": 23,
+      "block": "WORLD",
+      "letter": "R",
+      "oddWords": [
+        222,
+        224,
+        226,
+        228,
+        230,
+        232,
+        234
+      ],
+      "evenWords": [
+        223,
+        225,
+        227,
+        229,
+        231,
+        233
+      ],
+      "reverseWords": [
+        234,
+        233,
+        232,
+        231,
+        230,
+        229,
+        228,
+        227,
+        226,
+        225,
+        224,
+        223,
+        222
+      ]
+    },
+    {
+      "index": 24,
+      "block": "WORLD",
+      "letter": "L",
+      "oddWords": [
+        235,
+        237,
+        239,
+        241
+      ],
+      "evenWords": [
+        236,
+        238,
+        240
+      ],
+      "reverseWords": [
+        241,
+        240,
+        239,
+        238,
+        237,
+        236,
+        235
+      ]
+    },
+    {
+      "index": 25,
+      "block": "WORLD",
+      "letter": "D",
+      "oddWords": [
+        242,
+        244,
+        246,
+        248,
+        250,
+        252,
+        254,
+        256,
+        258
+      ],
+      "evenWords": [
+        243,
+        245,
+        247,
+        249,
+        251,
+        253,
+        255,
+        257
+      ],
+      "reverseWords": [
+        258,
+        257,
+        256,
+        255,
+        254,
+        253,
+        252,
+        251,
+        250,
+        249,
+        248,
+        247,
+        246,
+        245,
+        244,
+        243,
+        242
+      ]
+    }
+  ],
+  "checks": {
+    "regions": 25,
+    "words": 258,
+    "wholeTextRules": 9,
+    "perRegionRules": 75,
+    "assertionsPassed": 4
+  },
+  "limits": [
+    "The handwritten geometric reading paths have not been measured; circular and compass traversal remain untested.",
+    "Only observed line breaks are recorded, so a reliable alternating line extraction is unavailable.",
+    "No book supplied word substitution dictionary has been established.",
+    "Unknown readings are retained as bracketed tokens rather than filled from the whitepaper."
+  ]
+}
