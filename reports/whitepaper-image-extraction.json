@@ -1,0 +1,252 @@
+{
+  "source": "User supplied artwork",
+  "sourceSHA256": "7d97432fd0d153894ab3f9216d73f33394519d0e6605c7b279bddd22cceb6f9f",
+  "referenceURL": "https://bitcoin.org/bitcoin.pdf",
+  "referenceLocation": "Section 2 Transactions, printed page 2 (PDF page 2)",
+  "status": "Manual provisional diplomatic transcription; no claim of certified complete word for word accuracy",
+  "readingOrder": "Displayed title order first: WELCOME TO THE, BRAVE, NEW, WORLD, followed by footer. This differs from the whitepaper paragraph order.",
+  "notation": "[A?] and [which?] are uncertain readings. [partly obscured] and [obscured] denote unreadable spans. Curved lettering has no unique conventional line layout; newlines are recorded only where clearly observed. Case, punctuation and unrecorded line breaks are not verified.",
+  "letterRecords": [
+    {
+      "index": 1,
+      "block": "WELCOME",
+      "displayLetter": "W",
+      "transcription": "In the mint based model,",
+      "confidence": "medium"
+    },
+    {
+      "index": 2,
+      "block": "WELCOME",
+      "displayLetter": "E",
+      "transcription": "the mint was aware",
+      "confidence": "medium"
+    },
+    {
+      "index": 3,
+      "block": "WELCOME",
+      "displayLetter": "L",
+      "transcription": "of all transac",
+      "confidence": "medium"
+    },
+    {
+      "index": 4,
+      "block": "WELCOME",
+      "displayLetter": "C",
+      "transcription": "tions and decided",
+      "confidence": "medium"
+    },
+    {
+      "index": 5,
+      "block": "WELCOME",
+      "displayLetter": "O",
+      "transcription": "which arrived first.",
+      "confidence": "medium"
+    },
+    {
+      "index": 6,
+      "block": "WELCOME",
+      "displayLetter": "M",
+      "transcription": "To accomplish this without a trusted",
+      "confidence": "medium"
+    },
+    {
+      "index": 7,
+      "block": "WELCOME",
+      "displayLetter": "E",
+      "transcription": "party, transac\ntions must",
+      "confidence": "medium"
+    },
+    {
+      "index": 8,
+      "block": "TO",
+      "displayLetter": "T",
+      "transcription": "be publicly an",
+      "confidence": "medium"
+    },
+    {
+      "index": 9,
+      "block": "TO",
+      "displayLetter": "O",
+      "transcription": "nounced, and we",
+      "confidence": "medium"
+    },
+    {
+      "index": 10,
+      "block": "THE",
+      "displayLetter": "T",
+      "transcription": "need a system",
+      "confidence": "medium"
+    },
+    {
+      "index": 11,
+      "block": "THE",
+      "displayLetter": "H",
+      "transcription": "for participans",
+      "confidence": "medium"
+    },
+    {
+      "index": 12,
+      "block": "THE",
+      "displayLetter": "E",
+      "transcription": "to agree on a single history of the order",
+      "confidence": "medium"
+    },
+    {
+      "index": 13,
+      "block": "BRAVE",
+      "displayLetter": "B",
+      "transcription": "We define an electronic coin as a chain of digital signatures. Each owner transfers the coin",
+      "confidence": "medium"
+    },
+    {
+      "index": 14,
+      "block": "BRAVE",
+      "displayLetter": "R",
+      "transcription": "to the next by digitally signing a hash of the previous transaction and the public key of the next owner and adding these to the end of the coin.",
+      "confidence": "medium"
+    },
+    {
+      "index": 15,
+      "block": "BRAVE",
+      "displayLetter": "A",
+      "transcription": "A payee can verify the signatures to verify the chain of ownership. The problem",
+      "confidence": "medium"
+    },
+    {
+      "index": 16,
+      "block": "BRAVE",
+      "displayLetter": "V",
+      "transcription": "of course is the payee can't verify that one of the owners did not double",
+      "confidence": "medium"
+    },
+    {
+      "index": 17,
+      "block": "BRAVE",
+      "displayLetter": "E",
+      "transcription": "spend the coin. [A?]\ncommon solution\nis to introdue\ncent\nral au\nthority,\nor mint, that\nchecks every\ntran\nsacti\non\nfor double spen\nding. After",
+      "confidence": "mixed"
+    },
+    {
+      "index": 18,
+      "block": "NEW",
+      "displayLetter": "N",
+      "transcription": "each transaction, the coin must be returned to the mint to",
+      "confidence": "medium"
+    },
+    {
+      "index": 19,
+      "block": "NEW",
+      "displayLetter": "E",
+      "transcription": "issue a new coin, and only\ncoins issued\ndirectly from\nthe\nmint\nare trusted\nnot to be\ndou\ndle-\nspent. The\nproblem with",
+      "confidence": "mixed"
+    },
+    {
+      "index": 20,
+      "block": "NEW",
+      "displayLetter": "W",
+      "transcription": "this solution is that the fate of the entire money system depends on the company running",
+      "confidence": "medium"
+    },
+    {
+      "index": 21,
+      "block": "WORLD",
+      "displayLetter": "W",
+      "transcription": "the mint, with every transaction having to go through them, just like a bank.",
+      "confidence": "medium"
+    },
+    {
+      "index": 22,
+      "block": "WORLD",
+      "displayLetter": "O",
+      "transcription": "We need a way for the payee to know that the previous owners did not sing any earlier transactions.",
+      "confidence": "medium"
+    },
+    {
+      "index": 23,
+      "block": "WORLD",
+      "displayLetter": "R",
+      "transcription": "For our purposes, the earliest transaction is the one that counts, so we",
+      "confidence": "medium"
+    },
+    {
+      "index": 24,
+      "block": "WORLD",
+      "displayLetter": "L",
+      "transcription": "don't care about later attempts to double-spend.",
+      "confidence": "medium"
+    },
+    {
+      "index": 25,
+      "block": "WORLD",
+      "displayLetter": "D",
+      "transcription": "The only way to confirm the abcense of a transaction is to be aware of all transactions.",
+      "confidence": "medium"
+    }
+  ],
+  "footer": "in [which?] they were recived the payee needs proof that at the time of each transaction the [partly obscured] of nodes agreed it was [obscured]",
+  "comparison": [
+    {
+      "location": "BRAVE E",
+      "image": "introdue",
+      "reference": "introduce",
+      "assessment": "Apparent missing c; legible in enlarged crop"
+    },
+    {
+      "location": "BRAVE E",
+      "image": "No visible words between introdue and cent / ral",
+      "reference": "a trusted",
+      "assessment": "Apparent omission; initial A before common remains uncertain"
+    },
+    {
+      "location": "NEW E",
+      "image": "dou / dle- / spent",
+      "reference": "double-spent",
+      "assessment": "Apparent b to d substitution; split strokes make confidence lower"
+    },
+    {
+      "location": "WORLD O",
+      "image": "sing",
+      "reference": "sign",
+      "assessment": "Apparent transposition of the last two letters"
+    },
+    {
+      "location": "WORLD D",
+      "image": "abcense",
+      "reference": "absence",
+      "assessment": "Apparent s to c substitution"
+    },
+    {
+      "location": "THE H",
+      "image": "participans",
+      "reference": "participants",
+      "assessment": "Apparent missing t; handwritten join is ambiguous"
+    },
+    {
+      "location": "Footer",
+      "image": "recived",
+      "reference": "received",
+      "assessment": "Apparent missing e; partly crossed by frame"
+    },
+    {
+      "location": "WELCOME TO",
+      "image": "No visible citation marker after announced",
+      "reference": "[1]",
+      "assessment": "Reference citation marker is not visibly reproduced"
+    },
+    {
+      "location": "Footer tail",
+      "image": "Several words crossed by black frame",
+      "reference": "See section 2 closing sentence",
+      "assessment": "Not transcribed from reference; remains obscured"
+    }
+  ],
+  "normalizationsForReadingOnly": [
+    "transac + tions = transactions",
+    "an + nounced = announced",
+    "cent + ral = central",
+    "au + thority = authority",
+    "tran + sacti + on = transaction",
+    "spen + ding = spending",
+    "dou + dle = doudle; spelling not corrected"
+  ]
+}

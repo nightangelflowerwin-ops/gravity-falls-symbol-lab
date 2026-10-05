@@ -1,0 +1,100 @@
+01 WELCOME W
+In the mint based model,
+
+02 WELCOME E
+the mint was aware
+
+03 WELCOME L
+of all transac
+
+04 WELCOME C
+tions and decided
+
+05 WELCOME O
+which arrived first.
+
+06 WELCOME M
+To accomplish this without a trusted
+
+07 WELCOME E
+party, transac
+tions must
+
+08 TO T
+be publicly an
+
+09 TO O
+nounced, and we
+
+10 THE T
+need a system
+
+11 THE H
+for participans
+
+12 THE E
+to agree on a single history of the order
+
+13 BRAVE B
+We define an electronic coin as a chain of digital signatures. Each owner transfers the coin
+
+14 BRAVE R
+to the next by digitally signing a hash of the previous transaction and the public key of the next owner and adding these to the end of the coin.
+
+15 BRAVE A
+A payee can verify the signatures to verify the chain of ownership. The problem
+
+16 BRAVE V
+of course is the payee can't verify that one of the owners did not double
+
+17 BRAVE E
+spend the coin. [A?]
+common solution
+is to introdue
+cent
+ral au
+thority,
+or mint, that
+checks every
+tran
+sacti
+on
+for double spen
+ding. After
+
+18 NEW N
+each transaction, the coin must be returned to the mint to
+
+19 NEW E
+issue a new coin, and only
+coins issued
+directly from
+the
+mint
+are trusted
+not to be
+dou
+dle-
+spent. The
+problem with
+
+20 NEW W
+this solution is that the fate of the entire money system depends on the company running
+
+21 WORLD W
+the mint, with every transaction having to go through them, just like a bank.
+
+22 WORLD O
+We need a way for the payee to know that the previous owners did not sing any earlier transactions.
+
+23 WORLD R
+For our purposes, the earliest transaction is the one that counts, so we
+
+24 WORLD L
+don't care about later attempts to double-spend.
+
+25 WORLD D
+The only way to confirm the abcense of a transaction is to be aware of all transactions.
+
+FOOTER
+in [which?] they were recived the payee needs proof that at the time of each transaction the [partly obscured] of nodes agreed it was [obscured]

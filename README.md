@@ -77,3 +77,12 @@ Reports live in `reports/`. The template dictionary is separate from the calenda
 - [Noto Sans Runic](https://github.com/googlefonts/noto-fonts): embedded reference font, under the SIL Open Font License, copied in `licenses/`.
 
 The supplied artwork and community reference chart retain their respective rights. Their inclusion does not assert ownership or grant redistribution rights. Source image attribution was not supplied. This repository is public at the uploader's request. Consult rights holders before further redistribution. No credentials are included.
+
+
+## Research and whitepaper
+
+Every research addition is part of the dictionary. The Research and whitepaper panel contains the book and alphabet source notes, provisional image transcription by all 25 title letters, enlarged source strips, observed differences, every word comparison, and seven downloadable research files. It works offline and exports the complete research dataset as JSON.
+
+Use Research view to switch between extraction, sources, alignment and files. Filter the extraction by title block or the word alignment by differences and uncertain readings. Source matches do not identify an unknown glyph. Hidden footer words remain unreadable rather than being filled from the whitepaper. The alignment's explicit paragraph reordering and fragment joining are comparison steps, separate from the saved image reading.
+
+Research data lives in src/research-data.json, rendering in src/research-panel.html and src/research-engine.js, and downloadable copies in reports/. Rebuild using python build.py. Future research must be added to this dashboard and the published repository, rather than only delivered as separate files.

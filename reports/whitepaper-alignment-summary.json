@@ -1,0 +1,81 @@
+{
+  "referenceTokens": 286,
+  "provisionalImageTokensAfterExplicitFragmentJoining": 282,
+  "alignedEqualTokensIgnoringCase": 270,
+  "alignmentDifferenceGroups": [
+    {
+      "imageWordIndex": "74:75",
+      "imageToken": "double spend",
+      "referenceWordIndex": "74:74",
+      "status": "replace; review required",
+      "referenceDifference": "double-spend"
+    },
+    {
+      "imageWordIndex": "83:83",
+      "imageToken": "introdue",
+      "referenceWordIndex": "82:84",
+      "status": "replace; review required",
+      "referenceDifference": "introduce a trusted"
+    },
+    {
+      "imageWordIndex": "124:124",
+      "imageToken": "doudle-spent",
+      "referenceWordIndex": "125:125",
+      "status": "replace; review required",
+      "referenceDifference": "double-spent"
+    },
+    {
+      "imageWordIndex": "173:173",
+      "imageToken": "sing",
+      "referenceWordIndex": "174:174",
+      "status": "replace; review required",
+      "referenceDifference": "sign"
+    },
+    {
+      "imageWordIndex": "203:203",
+      "imageToken": "abcense",
+      "referenceWordIndex": "204:204",
+      "status": "replace; review required",
+      "referenceDifference": "absence"
+    },
+    {
+      "imageWordIndex": "",
+      "imageToken": "",
+      "referenceWordIndex": "244:244",
+      "status": "insert; review required",
+      "referenceDifference": "[1]"
+    },
+    {
+      "imageWordIndex": "249:249",
+      "imageToken": "participans",
+      "referenceWordIndex": "251:251",
+      "status": "replace; review required",
+      "referenceDifference": "participants"
+    },
+    {
+      "imageWordIndex": "263:263",
+      "imageToken": "recived",
+      "referenceWordIndex": "265:265",
+      "status": "replace; review required",
+      "referenceDifference": "received"
+    },
+    {
+      "imageWordIndex": "276:276",
+      "imageToken": "UNREADABLE",
+      "referenceWordIndex": "278:278",
+      "status": "replace; review required",
+      "referenceDifference": "majority"
+    },
+    {
+      "imageWordIndex": "282:282",
+      "imageToken": "UNREADABLE",
+      "referenceWordIndex": "284:286",
+      "status": "replace; review required",
+      "referenceDifference": "the first received"
+    }
+  ],
+  "warning": "Alignment is against a provisional transcription, not proof of image readings. Reordering, joining, uncertainty and case folding are explicit. No hidden words filled from the PDF.",
+  "referencePDFSHA256": "b1674191a88ec5cdd733e4240a81803105dc412d6c6708d53ab94fc248f4f553",
+  "referenceURL": "https://bitcoin.org/bitcoin.pdf",
+  "tokenization": "English word tokens with internal apostrophes/hyphens retained; citation [1] counted; punctuation excluded; matching ignores case. Raw image records remain separate."
+}
