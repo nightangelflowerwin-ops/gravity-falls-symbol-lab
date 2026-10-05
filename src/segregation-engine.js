@@ -20,3 +20,6 @@ function segRender(){
 for(const id of ['segFilter','segFamily','segRegion'])document.getElementById(id).addEventListener('change',segRender);
 document.getElementById('segExport').addEventListener('click',()=>{const blob=new Blob([JSON.stringify(SEG,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='image-segregation.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)});
 segRender();
+
+function segNavigate(){if(location.hash==='#segregationPanel'){document.getElementById('researchView').value='segregation';researchChangeView();document.getElementById('researchPanel').scrollIntoView()}}
+window.addEventListener('hashchange',segNavigate);segNavigate();

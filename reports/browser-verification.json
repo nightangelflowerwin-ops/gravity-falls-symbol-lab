@@ -26,6 +26,8 @@
     "137 reference forms",
     "segregation region and family filters",
     "segregation JSON export",
-    "offline atlas download"
+    "offline atlas download",
+    "segregation integrated in research navigation",
+    "combined research export includes segregation"
   ]
 }

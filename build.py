@@ -6,9 +6,8 @@ engine=(root/'src/calendar-engine.js').read_text(encoding='utf-8')
 data=(root/'src/data.json').read_text(encoding='utf-8')
 research_panel=(root/'src/research-panel.html').read_text(encoding='utf-8')
 research_engine=(root/'src/research-engine.js').read_text(encoding='utf-8').replace('__RESEARCH_DATA__',(root/'src/research-data.json').read_text(encoding='utf-8'))
-panel+=research_panel
+panel+=research_panel.replace('__SEGREGATION_PANEL__',(root/'src/segregation-panel.html').read_text(encoding='utf-8'))
 engine+='\n'+research_engine
-panel+=(root/'src/segregation-panel.html').read_text(encoding='utf-8')
 engine+='\n'+(root/'src/segregation-engine.js').read_text(encoding='utf-8').replace('__SEGREGATION_DATA__',(root/'src/segregation-data.json').read_text(encoding='utf-8'))
 shell=shell.replace('<footer>',panel+'<footer>',1).replace('__DATA__',data).replace('</script></html>','</script>\n<script>'+engine+'</script></html>')
 shell=shell.replace('<title>Gravity Falls · Image Dictionary</title>','<title>Gravity Falls · Symbol and Calendar Lab</title>')
