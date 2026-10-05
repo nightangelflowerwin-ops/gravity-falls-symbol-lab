@@ -1,0 +1,2322 @@
+{
+  "title": "Rules applied to the artwork lettering",
+  "sourceSHA256": "5af1c82e275f5858cbb930697b8ebaa4622bf1db05680126e93395f9c610f0e2",
+  "readingOrder": "WELCOME, TO, THE, BRAVE, NEW, WORLD. Footer excluded from these letter based tests.",
+  "scope": "Applied to the existing provisional manual transcription after visual inspection of the supplied artwork. The original letter records are preserved. Split words are not silently joined, spellings are not repaired, uncertain bracketed readings become one unknown token. These are token order tests, not verified paths around glyph outlines.",
+  "conclusion": "No evident sustained readable message appears in these fixed output strings. The transcription remains provisional. Neither these outputs nor apparent whitepaper differences establish a cipher.",
+  "limits": [
+    "Circular path reading and compass traversal require spatial word coordinates and an explicit start point; they were not approximated by invented coordinates.",
+    "The 25 large letters are not a twelve position ring. Rotating their order without a selected start is underdetermined.",
+    "Visual line breaks are only partially recorded, so alternating lines is not a reliable test on this transcription.",
+    "Alignment differences may be handwriting or transcription errors. No anomaly letters are accepted as hidden plaintext."
+  ],
+  "tests": [
+    {
+      "rule": "First word initial per large letter",
+      "output": "ITOTWTPBNNFTWTAOSEITTWFDT"
+    },
+    {
+      "rule": "Last word initial per large letter",
+      "output": "MATDFTMAWSPOCCPDATWRBTWDT"
+    },
+    {
+      "rule": "Odd large letters first initials",
+      "output": "IOWPNFWASITFT"
+    },
+    {
+      "rule": "Even large letters first initials",
+      "output": "TTTBNTTOETWD"
+    },
+    {
+      "rule": "Reverse large letter order first initials",
+      "output": "TDFWTTIESOATWTFNNBPTWTOTI"
+    },
+    {
+      "rule": "Odd words across displayed order",
+      "output": "IMMMAATDATTAPTBAANSPAAHTWACAOSOTTNDAOPAPONATTOCPVSVCOPCTCTOONSCCIIRTMCTODDETMRTTACOIFMTTDSPTITOESOCTWTTTJAWAFPKTONATOTTTTSDAADOTTOTTAA"
+    },
+    {
+      "rule": "Even words across displayed order",
+      "output": "TBTWOTAWFAWTTMPNWAFTOSOODEACDETCTBSHTTTKTOATETACTTTOTOIPVOTDDT?STCAOTESFSATCBTMINACDTANBDTWSTFTMDTRMEHGTLBNWTTTPDSEFPEIOCWCLTTWCAAIBOT"
+    },
+    {
+      "rule": "Reverse words across displayed order",
+      "output": "TAOABTITAOATCTWOTDTALACDWSCTOTITETPOFTEASNDOPTTKTPTFWANWBALJTTGTHTEWMTRCTODSMETOFTTISTWPTSDDBTNTAMTFDICOACNAITMTTRBMCTTEADSDFOSTECTMOTARCITISC?CTSDNDOTOOTVCPTICOPTOOCTVTSTVCPACTOETTTAAONTOKPTATPTOHASDBNTTCTTOESDOCAACEADWOTOHSAOATPFSANWANAPBMTTPTAWTATFAWDATTAOAWMTMBMTI"
+    }
+  ],
+  "units": [
+    {
+      "index": 1,
+      "block": "WELCOME",
+      "letter": "W",
+      "confidence": "medium",
+      "wordCount": 5,
+      "tokens": [
+        {
+          "raw": "In",
+          "initial": "I",
+          "final": "N",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 3,
+          "characterEnd": 6
+        },
+        {
+          "raw": "mint",
+          "initial": "M",
+          "final": "T",
+          "characterStart": 7,
+          "characterEnd": 11
+        },
+        {
+          "raw": "based",
+          "initial": "B",
+          "final": "D",
+          "characterStart": 12,
+          "characterEnd": 17
+        },
+        {
+          "raw": "model",
+          "initial": "M",
+          "final": "L",
+          "characterStart": 18,
+          "characterEnd": 23
+        }
+      ],
+      "initials": "ITMBM",
+      "oddInitials": "IMM",
+      "evenInitials": "TB",
+      "reverseInitials": "MBMTI"
+    },
+    {
+      "index": 2,
+      "block": "WELCOME",
+      "letter": "E",
+      "confidence": "medium",
+      "wordCount": 4,
+      "tokens": [
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 0,
+          "characterEnd": 3
+        },
+        {
+          "raw": "mint",
+          "initial": "M",
+          "final": "T",
+          "characterStart": 4,
+          "characterEnd": 8
+        },
+        {
+          "raw": "was",
+          "initial": "W",
+          "final": "S",
+          "characterStart": 9,
+          "characterEnd": 12
+        },
+        {
+          "raw": "aware",
+          "initial": "A",
+          "final": "E",
+          "characterStart": 13,
+          "characterEnd": 18
+        }
+      ],
+      "initials": "TMWA",
+      "oddInitials": "TW",
+      "evenInitials": "MA",
+      "reverseInitials": "AWMT"
+    },
+    {
+      "index": 3,
+      "block": "WELCOME",
+      "letter": "L",
+      "confidence": "medium",
+      "wordCount": 3,
+      "tokens": [
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "all",
+          "initial": "A",
+          "final": "L",
+          "characterStart": 3,
+          "characterEnd": 6
+        },
+        {
+          "raw": "transac",
+          "initial": "T",
+          "final": "C",
+          "characterStart": 7,
+          "characterEnd": 14
+        }
+      ],
+      "initials": "OAT",
+      "oddInitials": "OT",
+      "evenInitials": "A",
+      "reverseInitials": "TAO"
+    },
+    {
+      "index": 4,
+      "block": "WELCOME",
+      "letter": "C",
+      "confidence": "medium",
+      "wordCount": 3,
+      "tokens": [
+        {
+          "raw": "tions",
+          "initial": "T",
+          "final": "S",
+          "characterStart": 0,
+          "characterEnd": 5
+        },
+        {
+          "raw": "and",
+          "initial": "A",
+          "final": "D",
+          "characterStart": 6,
+          "characterEnd": 9
+        },
+        {
+          "raw": "decided",
+          "initial": "D",
+          "final": "D",
+          "characterStart": 10,
+          "characterEnd": 17
+        }
+      ],
+      "initials": "TAD",
+      "oddInitials": "TD",
+      "evenInitials": "A",
+      "reverseInitials": "DAT"
+    },
+    {
+      "index": 5,
+      "block": "WELCOME",
+      "letter": "O",
+      "confidence": "medium",
+      "wordCount": 3,
+      "tokens": [
+        {
+          "raw": "which",
+          "initial": "W",
+          "final": "H",
+          "characterStart": 0,
+          "characterEnd": 5
+        },
+        {
+          "raw": "arrived",
+          "initial": "A",
+          "final": "D",
+          "characterStart": 6,
+          "characterEnd": 13
+        },
+        {
+          "raw": "first",
+          "initial": "F",
+          "final": "T",
+          "characterStart": 14,
+          "characterEnd": 19
+        }
+      ],
+      "initials": "WAF",
+      "oddInitials": "WF",
+      "evenInitials": "A",
+      "reverseInitials": "FAW"
+    },
+    {
+      "index": 6,
+      "block": "WELCOME",
+      "letter": "M",
+      "confidence": "medium",
+      "wordCount": 6,
+      "tokens": [
+        {
+          "raw": "To",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "accomplish",
+          "initial": "A",
+          "final": "H",
+          "characterStart": 3,
+          "characterEnd": 13
+        },
+        {
+          "raw": "this",
+          "initial": "T",
+          "final": "S",
+          "characterStart": 14,
+          "characterEnd": 18
+        },
+        {
+          "raw": "without",
+          "initial": "W",
+          "final": "T",
+          "characterStart": 19,
+          "characterEnd": 26
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 27,
+          "characterEnd": 28
+        },
+        {
+          "raw": "trusted",
+          "initial": "T",
+          "final": "D",
+          "characterStart": 29,
+          "characterEnd": 36
+        }
+      ],
+      "initials": "TATWAT",
+      "oddInitials": "TTA",
+      "evenInitials": "AWT",
+      "reverseInitials": "TAWTAT"
+    },
+    {
+      "index": 7,
+      "block": "WELCOME",
+      "letter": "E",
+      "confidence": "medium",
+      "wordCount": 4,
+      "tokens": [
+        {
+          "raw": "party",
+          "initial": "P",
+          "final": "Y",
+          "characterStart": 0,
+          "characterEnd": 5
+        },
+        {
+          "raw": "transac",
+          "initial": "T",
+          "final": "C",
+          "characterStart": 7,
+          "characterEnd": 14
+        },
+        {
+          "raw": "tions",
+          "initial": "T",
+          "final": "S",
+          "characterStart": 15,
+          "characterEnd": 20
+        },
+        {
+          "raw": "must",
+          "initial": "M",
+          "final": "T",
+          "characterStart": 21,
+          "characterEnd": 25
+        }
+      ],
+      "initials": "PTTM",
+      "oddInitials": "PT",
+      "evenInitials": "TM",
+      "reverseInitials": "MTTP"
+    },
+    {
+      "index": 8,
+      "block": "TO",
+      "letter": "T",
+      "confidence": "medium",
+      "wordCount": 3,
+      "tokens": [
+        {
+          "raw": "be",
+          "initial": "B",
+          "final": "E",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "publicly",
+          "initial": "P",
+          "final": "Y",
+          "characterStart": 3,
+          "characterEnd": 11
+        },
+        {
+          "raw": "an",
+          "initial": "A",
+          "final": "N",
+          "characterStart": 12,
+          "characterEnd": 14
+        }
+      ],
+      "initials": "BPA",
+      "oddInitials": "BA",
+      "evenInitials": "P",
+      "reverseInitials": "APB"
+    },
+    {
+      "index": 9,
+      "block": "TO",
+      "letter": "O",
+      "confidence": "medium",
+      "wordCount": 3,
+      "tokens": [
+        {
+          "raw": "nounced",
+          "initial": "N",
+          "final": "D",
+          "characterStart": 0,
+          "characterEnd": 7
+        },
+        {
+          "raw": "and",
+          "initial": "A",
+          "final": "D",
+          "characterStart": 9,
+          "characterEnd": 12
+        },
+        {
+          "raw": "we",
+          "initial": "W",
+          "final": "E",
+          "characterStart": 13,
+          "characterEnd": 15
+        }
+      ],
+      "initials": "NAW",
+      "oddInitials": "NW",
+      "evenInitials": "A",
+      "reverseInitials": "WAN"
+    },
+    {
+      "index": 10,
+      "block": "THE",
+      "letter": "T",
+      "confidence": "medium",
+      "wordCount": 3,
+      "tokens": [
+        {
+          "raw": "need",
+          "initial": "N",
+          "final": "D",
+          "characterStart": 0,
+          "characterEnd": 4
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 5,
+          "characterEnd": 6
+        },
+        {
+          "raw": "system",
+          "initial": "S",
+          "final": "M",
+          "characterStart": 7,
+          "characterEnd": 13
+        }
+      ],
+      "initials": "NAS",
+      "oddInitials": "NS",
+      "evenInitials": "A",
+      "reverseInitials": "SAN"
+    },
+    {
+      "index": 11,
+      "block": "THE",
+      "letter": "H",
+      "confidence": "medium",
+      "wordCount": 2,
+      "tokens": [
+        {
+          "raw": "for",
+          "initial": "F",
+          "final": "R",
+          "characterStart": 0,
+          "characterEnd": 3
+        },
+        {
+          "raw": "participans",
+          "initial": "P",
+          "final": "S",
+          "characterStart": 4,
+          "characterEnd": 15
+        }
+      ],
+      "initials": "FP",
+      "oddInitials": "F",
+      "evenInitials": "P",
+      "reverseInitials": "PF"
+    },
+    {
+      "index": 12,
+      "block": "THE",
+      "letter": "E",
+      "confidence": "medium",
+      "wordCount": 9,
+      "tokens": [
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "agree",
+          "initial": "A",
+          "final": "E",
+          "characterStart": 3,
+          "characterEnd": 8
+        },
+        {
+          "raw": "on",
+          "initial": "O",
+          "final": "N",
+          "characterStart": 9,
+          "characterEnd": 11
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 12,
+          "characterEnd": 13
+        },
+        {
+          "raw": "single",
+          "initial": "S",
+          "final": "E",
+          "characterStart": 14,
+          "characterEnd": 20
+        },
+        {
+          "raw": "history",
+          "initial": "H",
+          "final": "Y",
+          "characterStart": 21,
+          "characterEnd": 28
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 29,
+          "characterEnd": 31
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 32,
+          "characterEnd": 35
+        },
+        {
+          "raw": "order",
+          "initial": "O",
+          "final": "R",
+          "characterStart": 36,
+          "characterEnd": 41
+        }
+      ],
+      "initials": "TAOASHOTO",
+      "oddInitials": "TOSOO",
+      "evenInitials": "AAHT",
+      "reverseInitials": "OTOHSAOAT"
+    },
+    {
+      "index": 13,
+      "block": "BRAVE",
+      "letter": "B",
+      "confidence": "medium",
+      "wordCount": 16,
+      "tokens": [
+        {
+          "raw": "We",
+          "initial": "W",
+          "final": "E",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "define",
+          "initial": "D",
+          "final": "E",
+          "characterStart": 3,
+          "characterEnd": 9
+        },
+        {
+          "raw": "an",
+          "initial": "A",
+          "final": "N",
+          "characterStart": 10,
+          "characterEnd": 12
+        },
+        {
+          "raw": "electronic",
+          "initial": "E",
+          "final": "C",
+          "characterStart": 13,
+          "characterEnd": 23
+        },
+        {
+          "raw": "coin",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 24,
+          "characterEnd": 28
+        },
+        {
+          "raw": "as",
+          "initial": "A",
+          "final": "S",
+          "characterStart": 29,
+          "characterEnd": 31
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 32,
+          "characterEnd": 33
+        },
+        {
+          "raw": "chain",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 34,
+          "characterEnd": 39
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 40,
+          "characterEnd": 42
+        },
+        {
+          "raw": "digital",
+          "initial": "D",
+          "final": "L",
+          "characterStart": 43,
+          "characterEnd": 50
+        },
+        {
+          "raw": "signatures",
+          "initial": "S",
+          "final": "S",
+          "characterStart": 51,
+          "characterEnd": 61
+        },
+        {
+          "raw": "Each",
+          "initial": "E",
+          "final": "H",
+          "characterStart": 63,
+          "characterEnd": 67
+        },
+        {
+          "raw": "owner",
+          "initial": "O",
+          "final": "R",
+          "characterStart": 68,
+          "characterEnd": 73
+        },
+        {
+          "raw": "transfers",
+          "initial": "T",
+          "final": "S",
+          "characterStart": 74,
+          "characterEnd": 83
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 84,
+          "characterEnd": 87
+        },
+        {
+          "raw": "coin",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 88,
+          "characterEnd": 92
+        }
+      ],
+      "initials": "WDAECAACODSEOTTC",
+      "oddInitials": "WACAOSOT",
+      "evenInitials": "DEACDETC",
+      "reverseInitials": "CTTOESDOCAACEADW"
+    },
+    {
+      "index": 14,
+      "block": "BRAVE",
+      "letter": "R",
+      "confidence": "medium",
+      "wordCount": 29,
+      "tokens": [
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 3,
+          "characterEnd": 6
+        },
+        {
+          "raw": "next",
+          "initial": "N",
+          "final": "T",
+          "characterStart": 7,
+          "characterEnd": 11
+        },
+        {
+          "raw": "by",
+          "initial": "B",
+          "final": "Y",
+          "characterStart": 12,
+          "characterEnd": 14
+        },
+        {
+          "raw": "digitally",
+          "initial": "D",
+          "final": "Y",
+          "characterStart": 15,
+          "characterEnd": 24
+        },
+        {
+          "raw": "signing",
+          "initial": "S",
+          "final": "G",
+          "characterStart": 25,
+          "characterEnd": 32
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 33,
+          "characterEnd": 34
+        },
+        {
+          "raw": "hash",
+          "initial": "H",
+          "final": "H",
+          "characterStart": 35,
+          "characterEnd": 39
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 40,
+          "characterEnd": 42
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 43,
+          "characterEnd": 46
+        },
+        {
+          "raw": "previous",
+          "initial": "P",
+          "final": "S",
+          "characterStart": 47,
+          "characterEnd": 55
+        },
+        {
+          "raw": "transaction",
+          "initial": "T",
+          "final": "N",
+          "characterStart": 56,
+          "characterEnd": 67
+        },
+        {
+          "raw": "and",
+          "initial": "A",
+          "final": "D",
+          "characterStart": 68,
+          "characterEnd": 71
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 72,
+          "characterEnd": 75
+        },
+        {
+          "raw": "public",
+          "initial": "P",
+          "final": "C",
+          "characterStart": 76,
+          "characterEnd": 82
+        },
+        {
+          "raw": "key",
+          "initial": "K",
+          "final": "Y",
+          "characterStart": 83,
+          "characterEnd": 86
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 87,
+          "characterEnd": 89
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 90,
+          "characterEnd": 93
+        },
+        {
+          "raw": "next",
+          "initial": "N",
+          "final": "T",
+          "characterStart": 94,
+          "characterEnd": 98
+        },
+        {
+          "raw": "owner",
+          "initial": "O",
+          "final": "R",
+          "characterStart": 99,
+          "characterEnd": 104
+        },
+        {
+          "raw": "and",
+          "initial": "A",
+          "final": "D",
+          "characterStart": 105,
+          "characterEnd": 108
+        },
+        {
+          "raw": "adding",
+          "initial": "A",
+          "final": "G",
+          "characterStart": 109,
+          "characterEnd": 115
+        },
+        {
+          "raw": "these",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 116,
+          "characterEnd": 121
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 122,
+          "characterEnd": 124
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 125,
+          "characterEnd": 128
+        },
+        {
+          "raw": "end",
+          "initial": "E",
+          "final": "D",
+          "characterStart": 129,
+          "characterEnd": 132
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 133,
+          "characterEnd": 135
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 136,
+          "characterEnd": 139
+        },
+        {
+          "raw": "coin",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 140,
+          "characterEnd": 144
+        }
+      ],
+      "initials": "TTNBDSAHOTPTATPKOTNOAATTTEOTC",
+      "oddInitials": "TNDAOPAPONATTOC",
+      "evenInitials": "TBSHTTTKTOATET",
+      "reverseInitials": "CTOETTTAAONTOKPTATPTOHASDBNTT"
+    },
+    {
+      "index": 15,
+      "block": "BRAVE",
+      "letter": "A",
+      "confidence": "medium",
+      "wordCount": 14,
+      "tokens": [
+        {
+          "raw": "A",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 0,
+          "characterEnd": 1
+        },
+        {
+          "raw": "payee",
+          "initial": "P",
+          "final": "E",
+          "characterStart": 2,
+          "characterEnd": 7
+        },
+        {
+          "raw": "can",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 8,
+          "characterEnd": 11
+        },
+        {
+          "raw": "verify",
+          "initial": "V",
+          "final": "Y",
+          "characterStart": 12,
+          "characterEnd": 18
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 19,
+          "characterEnd": 22
+        },
+        {
+          "raw": "signatures",
+          "initial": "S",
+          "final": "S",
+          "characterStart": 23,
+          "characterEnd": 33
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 34,
+          "characterEnd": 36
+        },
+        {
+          "raw": "verify",
+          "initial": "V",
+          "final": "Y",
+          "characterStart": 37,
+          "characterEnd": 43
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 44,
+          "characterEnd": 47
+        },
+        {
+          "raw": "chain",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 48,
+          "characterEnd": 53
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 54,
+          "characterEnd": 56
+        },
+        {
+          "raw": "ownership",
+          "initial": "O",
+          "final": "P",
+          "characterStart": 57,
+          "characterEnd": 66
+        },
+        {
+          "raw": "The",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 68,
+          "characterEnd": 71
+        },
+        {
+          "raw": "problem",
+          "initial": "P",
+          "final": "M",
+          "characterStart": 72,
+          "characterEnd": 79
+        }
+      ],
+      "initials": "APCVTSTVTCOOTP",
+      "oddInitials": "ACTTTOT",
+      "evenInitials": "PVSVCOP",
+      "reverseInitials": "PTOOCTVTSTVCPA"
+    },
+    {
+      "index": 16,
+      "block": "BRAVE",
+      "letter": "V",
+      "confidence": "medium",
+      "wordCount": 15,
+      "tokens": [
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "course",
+          "initial": "C",
+          "final": "E",
+          "characterStart": 3,
+          "characterEnd": 9
+        },
+        {
+          "raw": "is",
+          "initial": "I",
+          "final": "S",
+          "characterStart": 10,
+          "characterEnd": 12
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 13,
+          "characterEnd": 16
+        },
+        {
+          "raw": "payee",
+          "initial": "P",
+          "final": "E",
+          "characterStart": 17,
+          "characterEnd": 22
+        },
+        {
+          "raw": "can't",
+          "initial": "C",
+          "final": "T",
+          "characterStart": 23,
+          "characterEnd": 28
+        },
+        {
+          "raw": "verify",
+          "initial": "V",
+          "final": "Y",
+          "characterStart": 29,
+          "characterEnd": 35
+        },
+        {
+          "raw": "that",
+          "initial": "T",
+          "final": "T",
+          "characterStart": 36,
+          "characterEnd": 40
+        },
+        {
+          "raw": "one",
+          "initial": "O",
+          "final": "E",
+          "characterStart": 41,
+          "characterEnd": 44
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 45,
+          "characterEnd": 47
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 48,
+          "characterEnd": 51
+        },
+        {
+          "raw": "owners",
+          "initial": "O",
+          "final": "S",
+          "characterStart": 52,
+          "characterEnd": 58
+        },
+        {
+          "raw": "did",
+          "initial": "D",
+          "final": "D",
+          "characterStart": 59,
+          "characterEnd": 62
+        },
+        {
+          "raw": "not",
+          "initial": "N",
+          "final": "T",
+          "characterStart": 63,
+          "characterEnd": 66
+        },
+        {
+          "raw": "double",
+          "initial": "D",
+          "final": "E",
+          "characterStart": 67,
+          "characterEnd": 73
+        }
+      ],
+      "initials": "OCITPCVTOOTODND",
+      "oddInitials": "OIPVOTDD",
+      "evenInitials": "CTCTOON",
+      "reverseInitials": "DNDOTOOTVCPTICO"
+    },
+    {
+      "index": 17,
+      "block": "BRAVE",
+      "letter": "E",
+      "confidence": "mixed",
+      "wordCount": 26,
+      "tokens": [
+        {
+          "raw": "spend",
+          "initial": "S",
+          "final": "D",
+          "characterStart": 0,
+          "characterEnd": 5
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 6,
+          "characterEnd": 9
+        },
+        {
+          "raw": "coin",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 10,
+          "characterEnd": 14
+        },
+        {
+          "raw": "[A?]",
+          "initial": "?",
+          "final": "?",
+          "characterStart": 16,
+          "characterEnd": 20
+        },
+        {
+          "raw": "common",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 21,
+          "characterEnd": 27
+        },
+        {
+          "raw": "solution",
+          "initial": "S",
+          "final": "N",
+          "characterStart": 28,
+          "characterEnd": 36
+        },
+        {
+          "raw": "is",
+          "initial": "I",
+          "final": "S",
+          "characterStart": 37,
+          "characterEnd": 39
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 40,
+          "characterEnd": 42
+        },
+        {
+          "raw": "introdue",
+          "initial": "I",
+          "final": "E",
+          "characterStart": 43,
+          "characterEnd": 51
+        },
+        {
+          "raw": "cent",
+          "initial": "C",
+          "final": "T",
+          "characterStart": 52,
+          "characterEnd": 56
+        },
+        {
+          "raw": "ral",
+          "initial": "R",
+          "final": "L",
+          "characterStart": 57,
+          "characterEnd": 60
+        },
+        {
+          "raw": "au",
+          "initial": "A",
+          "final": "U",
+          "characterStart": 61,
+          "characterEnd": 63
+        },
+        {
+          "raw": "thority",
+          "initial": "T",
+          "final": "Y",
+          "characterStart": 64,
+          "characterEnd": 71
+        },
+        {
+          "raw": "or",
+          "initial": "O",
+          "final": "R",
+          "characterStart": 73,
+          "characterEnd": 75
+        },
+        {
+          "raw": "mint",
+          "initial": "M",
+          "final": "T",
+          "characterStart": 76,
+          "characterEnd": 80
+        },
+        {
+          "raw": "that",
+          "initial": "T",
+          "final": "T",
+          "characterStart": 82,
+          "characterEnd": 86
+        },
+        {
+          "raw": "checks",
+          "initial": "C",
+          "final": "S",
+          "characterStart": 87,
+          "characterEnd": 93
+        },
+        {
+          "raw": "every",
+          "initial": "E",
+          "final": "Y",
+          "characterStart": 94,
+          "characterEnd": 99
+        },
+        {
+          "raw": "tran",
+          "initial": "T",
+          "final": "N",
+          "characterStart": 100,
+          "characterEnd": 104
+        },
+        {
+          "raw": "sacti",
+          "initial": "S",
+          "final": "I",
+          "characterStart": 105,
+          "characterEnd": 110
+        },
+        {
+          "raw": "on",
+          "initial": "O",
+          "final": "N",
+          "characterStart": 111,
+          "characterEnd": 113
+        },
+        {
+          "raw": "for",
+          "initial": "F",
+          "final": "R",
+          "characterStart": 114,
+          "characterEnd": 117
+        },
+        {
+          "raw": "double",
+          "initial": "D",
+          "final": "E",
+          "characterStart": 118,
+          "characterEnd": 124
+        },
+        {
+          "raw": "spen",
+          "initial": "S",
+          "final": "N",
+          "characterStart": 125,
+          "characterEnd": 129
+        },
+        {
+          "raw": "ding",
+          "initial": "D",
+          "final": "G",
+          "characterStart": 130,
+          "characterEnd": 134
+        },
+        {
+          "raw": "After",
+          "initial": "A",
+          "final": "R",
+          "characterStart": 136,
+          "characterEnd": 141
+        }
+      ],
+      "initials": "STC?CSITICRATOMTCETSOFDSDA",
+      "oddInitials": "SCCIIRTMCTODD",
+      "evenInitials": "T?STCAOTESFSA",
+      "reverseInitials": "ADSDFOSTECTMOTARCITISC?CTS"
+    },
+    {
+      "index": 18,
+      "block": "NEW",
+      "letter": "N",
+      "confidence": "medium",
+      "wordCount": 11,
+      "tokens": [
+        {
+          "raw": "each",
+          "initial": "E",
+          "final": "H",
+          "characterStart": 0,
+          "characterEnd": 4
+        },
+        {
+          "raw": "transaction",
+          "initial": "T",
+          "final": "N",
+          "characterStart": 5,
+          "characterEnd": 16
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 18,
+          "characterEnd": 21
+        },
+        {
+          "raw": "coin",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 22,
+          "characterEnd": 26
+        },
+        {
+          "raw": "must",
+          "initial": "M",
+          "final": "T",
+          "characterStart": 27,
+          "characterEnd": 31
+        },
+        {
+          "raw": "be",
+          "initial": "B",
+          "final": "E",
+          "characterStart": 32,
+          "characterEnd": 34
+        },
+        {
+          "raw": "returned",
+          "initial": "R",
+          "final": "D",
+          "characterStart": 35,
+          "characterEnd": 43
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 44,
+          "characterEnd": 46
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 47,
+          "characterEnd": 50
+        },
+        {
+          "raw": "mint",
+          "initial": "M",
+          "final": "T",
+          "characterStart": 51,
+          "characterEnd": 55
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 56,
+          "characterEnd": 58
+        }
+      ],
+      "initials": "ETTCMBRTTMT",
+      "oddInitials": "ETMRTT",
+      "evenInitials": "TCBTM",
+      "reverseInitials": "TMTTRBMCTTE"
+    },
+    {
+      "index": 19,
+      "block": "NEW",
+      "letter": "E",
+      "confidence": "mixed",
+      "wordCount": 23,
+      "tokens": [
+        {
+          "raw": "issue",
+          "initial": "I",
+          "final": "E",
+          "characterStart": 0,
+          "characterEnd": 5
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 6,
+          "characterEnd": 7
+        },
+        {
+          "raw": "new",
+          "initial": "N",
+          "final": "W",
+          "characterStart": 8,
+          "characterEnd": 11
+        },
+        {
+          "raw": "coin",
+          "initial": "C",
+          "final": "N",
+          "characterStart": 12,
+          "characterEnd": 16
+        },
+        {
+          "raw": "and",
+          "initial": "A",
+          "final": "D",
+          "characterStart": 18,
+          "characterEnd": 21
+        },
+        {
+          "raw": "only",
+          "initial": "O",
+          "final": "Y",
+          "characterStart": 22,
+          "characterEnd": 26
+        },
+        {
+          "raw": "coins",
+          "initial": "C",
+          "final": "S",
+          "characterStart": 27,
+          "characterEnd": 32
+        },
+        {
+          "raw": "issued",
+          "initial": "I",
+          "final": "D",
+          "characterStart": 33,
+          "characterEnd": 39
+        },
+        {
+          "raw": "directly",
+          "initial": "D",
+          "final": "Y",
+          "characterStart": 40,
+          "characterEnd": 48
+        },
+        {
+          "raw": "from",
+          "initial": "F",
+          "final": "M",
+          "characterStart": 49,
+          "characterEnd": 53
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 54,
+          "characterEnd": 57
+        },
+        {
+          "raw": "mint",
+          "initial": "M",
+          "final": "T",
+          "characterStart": 58,
+          "characterEnd": 62
+        },
+        {
+          "raw": "are",
+          "initial": "A",
+          "final": "E",
+          "characterStart": 63,
+          "characterEnd": 66
+        },
+        {
+          "raw": "trusted",
+          "initial": "T",
+          "final": "D",
+          "characterStart": 67,
+          "characterEnd": 74
+        },
+        {
+          "raw": "not",
+          "initial": "N",
+          "final": "T",
+          "characterStart": 75,
+          "characterEnd": 78
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 79,
+          "characterEnd": 81
+        },
+        {
+          "raw": "be",
+          "initial": "B",
+          "final": "E",
+          "characterStart": 82,
+          "characterEnd": 84
+        },
+        {
+          "raw": "dou",
+          "initial": "D",
+          "final": "U",
+          "characterStart": 85,
+          "characterEnd": 88
+        },
+        {
+          "raw": "dle",
+          "initial": "D",
+          "final": "E",
+          "characterStart": 89,
+          "characterEnd": 92
+        },
+        {
+          "raw": "spent",
+          "initial": "S",
+          "final": "T",
+          "characterStart": 94,
+          "characterEnd": 99
+        },
+        {
+          "raw": "The",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 101,
+          "characterEnd": 104
+        },
+        {
+          "raw": "problem",
+          "initial": "P",
+          "final": "M",
+          "characterStart": 105,
+          "characterEnd": 112
+        },
+        {
+          "raw": "with",
+          "initial": "W",
+          "final": "H",
+          "characterStart": 113,
+          "characterEnd": 117
+        }
+      ],
+      "initials": "IANCAOCIDFTMATNTBDDSTPW",
+      "oddInitials": "INACDTANBDTW",
+      "evenInitials": "ACOIFMTTDSP",
+      "reverseInitials": "WPTSDDBTNTAMTFDICOACNAI"
+    },
+    {
+      "index": 20,
+      "block": "NEW",
+      "letter": "W",
+      "confidence": "medium",
+      "wordCount": 16,
+      "tokens": [
+        {
+          "raw": "this",
+          "initial": "T",
+          "final": "S",
+          "characterStart": 0,
+          "characterEnd": 4
+        },
+        {
+          "raw": "solution",
+          "initial": "S",
+          "final": "N",
+          "characterStart": 5,
+          "characterEnd": 13
+        },
+        {
+          "raw": "is",
+          "initial": "I",
+          "final": "S",
+          "characterStart": 14,
+          "characterEnd": 16
+        },
+        {
+          "raw": "that",
+          "initial": "T",
+          "final": "T",
+          "characterStart": 17,
+          "characterEnd": 21
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 22,
+          "characterEnd": 25
+        },
+        {
+          "raw": "fate",
+          "initial": "F",
+          "final": "E",
+          "characterStart": 26,
+          "characterEnd": 30
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 31,
+          "characterEnd": 33
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 34,
+          "characterEnd": 37
+        },
+        {
+          "raw": "entire",
+          "initial": "E",
+          "final": "E",
+          "characterStart": 38,
+          "characterEnd": 44
+        },
+        {
+          "raw": "money",
+          "initial": "M",
+          "final": "Y",
+          "characterStart": 45,
+          "characterEnd": 50
+        },
+        {
+          "raw": "system",
+          "initial": "S",
+          "final": "M",
+          "characterStart": 51,
+          "characterEnd": 57
+        },
+        {
+          "raw": "depends",
+          "initial": "D",
+          "final": "S",
+          "characterStart": 58,
+          "characterEnd": 65
+        },
+        {
+          "raw": "on",
+          "initial": "O",
+          "final": "N",
+          "characterStart": 66,
+          "characterEnd": 68
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 69,
+          "characterEnd": 72
+        },
+        {
+          "raw": "company",
+          "initial": "C",
+          "final": "Y",
+          "characterStart": 73,
+          "characterEnd": 80
+        },
+        {
+          "raw": "running",
+          "initial": "R",
+          "final": "G",
+          "characterStart": 81,
+          "characterEnd": 88
+        }
+      ],
+      "initials": "TSITTFOTEMSDOTCR",
+      "oddInitials": "TITOESOC",
+      "evenInitials": "STFTMDTR",
+      "reverseInitials": "RCTODSMETOFTTIST"
+    },
+    {
+      "index": 21,
+      "block": "WORLD",
+      "letter": "W",
+      "confidence": "medium",
+      "wordCount": 14,
+      "tokens": [
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 0,
+          "characterEnd": 3
+        },
+        {
+          "raw": "mint",
+          "initial": "M",
+          "final": "T",
+          "characterStart": 4,
+          "characterEnd": 8
+        },
+        {
+          "raw": "with",
+          "initial": "W",
+          "final": "H",
+          "characterStart": 10,
+          "characterEnd": 14
+        },
+        {
+          "raw": "every",
+          "initial": "E",
+          "final": "Y",
+          "characterStart": 15,
+          "characterEnd": 20
+        },
+        {
+          "raw": "transaction",
+          "initial": "T",
+          "final": "N",
+          "characterStart": 21,
+          "characterEnd": 32
+        },
+        {
+          "raw": "having",
+          "initial": "H",
+          "final": "G",
+          "characterStart": 33,
+          "characterEnd": 39
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 40,
+          "characterEnd": 42
+        },
+        {
+          "raw": "go",
+          "initial": "G",
+          "final": "O",
+          "characterStart": 43,
+          "characterEnd": 45
+        },
+        {
+          "raw": "through",
+          "initial": "T",
+          "final": "H",
+          "characterStart": 46,
+          "characterEnd": 53
+        },
+        {
+          "raw": "them",
+          "initial": "T",
+          "final": "M",
+          "characterStart": 54,
+          "characterEnd": 58
+        },
+        {
+          "raw": "just",
+          "initial": "J",
+          "final": "T",
+          "characterStart": 60,
+          "characterEnd": 64
+        },
+        {
+          "raw": "like",
+          "initial": "L",
+          "final": "E",
+          "characterStart": 65,
+          "characterEnd": 69
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 70,
+          "characterEnd": 71
+        },
+        {
+          "raw": "bank",
+          "initial": "B",
+          "final": "K",
+          "characterStart": 72,
+          "characterEnd": 76
+        }
+      ],
+      "initials": "TMWETHTGTTJLAB",
+      "oddInitials": "TWTTTJA",
+      "evenInitials": "MEHGTLB",
+      "reverseInitials": "BALJTTGTHTEWMT"
+    },
+    {
+      "index": 22,
+      "block": "WORLD",
+      "letter": "O",
+      "confidence": "medium",
+      "wordCount": 19,
+      "tokens": [
+        {
+          "raw": "We",
+          "initial": "W",
+          "final": "E",
+          "characterStart": 0,
+          "characterEnd": 2
+        },
+        {
+          "raw": "need",
+          "initial": "N",
+          "final": "D",
+          "characterStart": 3,
+          "characterEnd": 7
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 8,
+          "characterEnd": 9
+        },
+        {
+          "raw": "way",
+          "initial": "W",
+          "final": "Y",
+          "characterStart": 10,
+          "characterEnd": 13
+        },
+        {
+          "raw": "for",
+          "initial": "F",
+          "final": "R",
+          "characterStart": 14,
+          "characterEnd": 17
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 18,
+          "characterEnd": 21
+        },
+        {
+          "raw": "payee",
+          "initial": "P",
+          "final": "E",
+          "characterStart": 22,
+          "characterEnd": 27
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 28,
+          "characterEnd": 30
+        },
+        {
+          "raw": "know",
+          "initial": "K",
+          "final": "W",
+          "characterStart": 31,
+          "characterEnd": 35
+        },
+        {
+          "raw": "that",
+          "initial": "T",
+          "final": "T",
+          "characterStart": 36,
+          "characterEnd": 40
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 41,
+          "characterEnd": 44
+        },
+        {
+          "raw": "previous",
+          "initial": "P",
+          "final": "S",
+          "characterStart": 45,
+          "characterEnd": 53
+        },
+        {
+          "raw": "owners",
+          "initial": "O",
+          "final": "S",
+          "characterStart": 54,
+          "characterEnd": 60
+        },
+        {
+          "raw": "did",
+          "initial": "D",
+          "final": "D",
+          "characterStart": 61,
+          "characterEnd": 64
+        },
+        {
+          "raw": "not",
+          "initial": "N",
+          "final": "T",
+          "characterStart": 65,
+          "characterEnd": 68
+        },
+        {
+          "raw": "sing",
+          "initial": "S",
+          "final": "G",
+          "characterStart": 69,
+          "characterEnd": 73
+        },
+        {
+          "raw": "any",
+          "initial": "A",
+          "final": "Y",
+          "characterStart": 74,
+          "characterEnd": 77
+        },
+        {
+          "raw": "earlier",
+          "initial": "E",
+          "final": "R",
+          "characterStart": 78,
+          "characterEnd": 85
+        },
+        {
+          "raw": "transactions",
+          "initial": "T",
+          "final": "S",
+          "characterStart": 86,
+          "characterEnd": 98
+        }
+      ],
+      "initials": "WNAWFTPTKTTPODNSAET",
+      "oddInitials": "WAFPKTONAT",
+      "evenInitials": "NWTTTPDSE",
+      "reverseInitials": "TEASNDOPTTKTPTFWANW"
+    },
+    {
+      "index": 23,
+      "block": "WORLD",
+      "letter": "R",
+      "confidence": "medium",
+      "wordCount": 13,
+      "tokens": [
+        {
+          "raw": "For",
+          "initial": "F",
+          "final": "R",
+          "characterStart": 0,
+          "characterEnd": 3
+        },
+        {
+          "raw": "our",
+          "initial": "O",
+          "final": "R",
+          "characterStart": 4,
+          "characterEnd": 7
+        },
+        {
+          "raw": "purposes",
+          "initial": "P",
+          "final": "S",
+          "characterStart": 8,
+          "characterEnd": 16
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 18,
+          "characterEnd": 21
+        },
+        {
+          "raw": "earliest",
+          "initial": "E",
+          "final": "T",
+          "characterStart": 22,
+          "characterEnd": 30
+        },
+        {
+          "raw": "transaction",
+          "initial": "T",
+          "final": "N",
+          "characterStart": 31,
+          "characterEnd": 42
+        },
+        {
+          "raw": "is",
+          "initial": "I",
+          "final": "S",
+          "characterStart": 43,
+          "characterEnd": 45
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 46,
+          "characterEnd": 49
+        },
+        {
+          "raw": "one",
+          "initial": "O",
+          "final": "E",
+          "characterStart": 50,
+          "characterEnd": 53
+        },
+        {
+          "raw": "that",
+          "initial": "T",
+          "final": "T",
+          "characterStart": 54,
+          "characterEnd": 58
+        },
+        {
+          "raw": "counts",
+          "initial": "C",
+          "final": "S",
+          "characterStart": 59,
+          "characterEnd": 65
+        },
+        {
+          "raw": "so",
+          "initial": "S",
+          "final": "O",
+          "characterStart": 67,
+          "characterEnd": 69
+        },
+        {
+          "raw": "we",
+          "initial": "W",
+          "final": "E",
+          "characterStart": 70,
+          "characterEnd": 72
+        }
+      ],
+      "initials": "FOPTETITOTCSW",
+      "oddInitials": "FPEIOCW",
+      "evenInitials": "OTTTTS",
+      "reverseInitials": "WSCTOTITETPOF"
+    },
+    {
+      "index": 24,
+      "block": "WORLD",
+      "letter": "L",
+      "confidence": "medium",
+      "wordCount": 7,
+      "tokens": [
+        {
+          "raw": "don't",
+          "initial": "D",
+          "final": "T",
+          "characterStart": 0,
+          "characterEnd": 5
+        },
+        {
+          "raw": "care",
+          "initial": "C",
+          "final": "E",
+          "characterStart": 6,
+          "characterEnd": 10
+        },
+        {
+          "raw": "about",
+          "initial": "A",
+          "final": "T",
+          "characterStart": 11,
+          "characterEnd": 16
+        },
+        {
+          "raw": "later",
+          "initial": "L",
+          "final": "R",
+          "characterStart": 17,
+          "characterEnd": 22
+        },
+        {
+          "raw": "attempts",
+          "initial": "A",
+          "final": "S",
+          "characterStart": 23,
+          "characterEnd": 31
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 32,
+          "characterEnd": 34
+        },
+        {
+          "raw": "double-spend",
+          "initial": "D",
+          "final": "D",
+          "characterStart": 35,
+          "characterEnd": 47
+        }
+      ],
+      "initials": "DCALATD",
+      "oddInitials": "DAAD",
+      "evenInitials": "CLT",
+      "reverseInitials": "DTALACD"
+    },
+    {
+      "index": 25,
+      "block": "WORLD",
+      "letter": "D",
+      "confidence": "medium",
+      "wordCount": 17,
+      "tokens": [
+        {
+          "raw": "The",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 0,
+          "characterEnd": 3
+        },
+        {
+          "raw": "only",
+          "initial": "O",
+          "final": "Y",
+          "characterStart": 4,
+          "characterEnd": 8
+        },
+        {
+          "raw": "way",
+          "initial": "W",
+          "final": "Y",
+          "characterStart": 9,
+          "characterEnd": 12
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 13,
+          "characterEnd": 15
+        },
+        {
+          "raw": "confirm",
+          "initial": "C",
+          "final": "M",
+          "characterStart": 16,
+          "characterEnd": 23
+        },
+        {
+          "raw": "the",
+          "initial": "T",
+          "final": "E",
+          "characterStart": 24,
+          "characterEnd": 27
+        },
+        {
+          "raw": "abcense",
+          "initial": "A",
+          "final": "E",
+          "characterStart": 28,
+          "characterEnd": 35
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 36,
+          "characterEnd": 38
+        },
+        {
+          "raw": "a",
+          "initial": "A",
+          "final": "A",
+          "characterStart": 39,
+          "characterEnd": 40
+        },
+        {
+          "raw": "transaction",
+          "initial": "T",
+          "final": "N",
+          "characterStart": 41,
+          "characterEnd": 52
+        },
+        {
+          "raw": "is",
+          "initial": "I",
+          "final": "S",
+          "characterStart": 53,
+          "characterEnd": 55
+        },
+        {
+          "raw": "to",
+          "initial": "T",
+          "final": "O",
+          "characterStart": 56,
+          "characterEnd": 58
+        },
+        {
+          "raw": "be",
+          "initial": "B",
+          "final": "E",
+          "characterStart": 59,
+          "characterEnd": 61
+        },
+        {
+          "raw": "aware",
+          "initial": "A",
+          "final": "E",
+          "characterStart": 62,
+          "characterEnd": 67
+        },
+        {
+          "raw": "of",
+          "initial": "O",
+          "final": "F",
+          "characterStart": 68,
+          "characterEnd": 70
+        },
+        {
+          "raw": "all",
+          "initial": "A",
+          "final": "L",
+          "characterStart": 71,
+          "characterEnd": 74
+        },
+        {
+          "raw": "transactions",
+          "initial": "T",
+          "final": "S",
+          "characterStart": 75,
+          "characterEnd": 87
+        }
+      ],
+      "initials": "TOWTCTAOATITBAOAT",
+      "oddInitials": "TWCAAIBOT",
+      "evenInitials": "OTTOTTAA",
+      "reverseInitials": "TAOABTITAOATCTWOT"
+    }
+  ],
+  "referenceDifferences": [
+    {
+      "imageWordIndex": "74:75",
+      "imageToken": "double spend",
+      "referenceWordIndex": "74:74",
+      "status": "replace; review required",
+      "referenceDifference": "double-spend"
+    },
+    {
+      "imageWordIndex": "83:83",
+      "imageToken": "introdue",
+      "referenceWordIndex": "82:84",
+      "status": "replace; review required",
+      "referenceDifference": "introduce a trusted"
+    },
+    {
+      "imageWordIndex": "124:124",
+      "imageToken": "doudle-spent",
+      "referenceWordIndex": "125:125",
+      "status": "replace; review required",
+      "referenceDifference": "double-spent"
+    },
+    {
+      "imageWordIndex": "173:173",
+      "imageToken": "sing",
+      "referenceWordIndex": "174:174",
+      "status": "replace; review required",
+      "referenceDifference": "sign"
+    },
+    {
+      "imageWordIndex": "203:203",
+      "imageToken": "abcense",
+      "referenceWordIndex": "204:204",
+      "status": "replace; review required",
+      "referenceDifference": "absence"
+    },
+    {
+      "imageWordIndex": "",
+      "imageToken": "",
+      "referenceWordIndex": "244:244",
+      "status": "insert; review required",
+      "referenceDifference": "[1]"
+    },
+    {
+      "imageWordIndex": "249:249",
+      "imageToken": "participans",
+      "referenceWordIndex": "251:251",
+      "status": "replace; review required",
+      "referenceDifference": "participants"
+    },
+    {
+      "imageWordIndex": "263:263",
+      "imageToken": "recived",
+      "referenceWordIndex": "265:265",
+      "status": "replace; review required",
+      "referenceDifference": "received"
+    },
+    {
+      "imageWordIndex": "276:276",
+      "imageToken": "UNREADABLE",
+      "referenceWordIndex": "278:278",
+      "status": "replace; review required",
+      "referenceDifference": "majority"
+    },
+    {
+      "imageWordIndex": "282:282",
+      "imageToken": "UNREADABLE",
+      "referenceWordIndex": "284:286",
+      "status": "replace; review required",
+      "referenceDifference": "the first received"
+    }
+  ]
+}
