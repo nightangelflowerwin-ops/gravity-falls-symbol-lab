@@ -26789,5 +26789,42 @@
         ]
       }
     ]
+  },
+  "amsPaperComparison": {
+    "title": "AMS cryptography paper comparison",
+    "paper": "The Brave New World of Bodacious Assumptions in Cryptography",
+    "authors": [
+      "Neal Koblitz",
+      "Alfred Menezes"
+    ],
+    "publication": "Notices of the AMS, March 2010, pages 357 to 365",
+    "source": "https://www.ams.org/notices/201003/rtx100300357p.pdf",
+    "authorListing": "https://www.math.uwaterloo.ca/~ajmeneze/anotherlook/ams2.shtml",
+    "pdfSHA256": "87bd2ece7fd62508df639d2ffeba2306341b8a1ee9c0dd7507c9c22fbd35e2b2",
+    "review": "All nine PDF pages read, including references. The adjacent recruitment advertisement on page 365 is excluded from article comparisons.",
+    "summary": "The authors critique security arguments resting on contrived or weakly examined assumptions. Topics include RSA, elliptic curves, Rabin Williams, interactive problems, pairings and signature forgery. Their conclusion calls for broader practical evaluation, rather than treating a mathematical proof as a complete guarantee.",
+    "comparisons": [
+      {
+        "page": 357,
+        "feature": "Title",
+        "assessment": "The title shares Brave New World with the artwork. This is a verified phrase overlap; intent is unknown."
+      },
+      {
+        "page": 357,
+        "feature": "Seattle",
+        "assessment": "Koblitz is identified with the University of Washington, Seattle. The artwork depicts the Space Needle. This geographical overlap is a candidate connection, not attribution."
+      },
+      {
+        "page": 362,
+        "feature": "Ordered signatures",
+        "assessment": "The paper discusses compact signatures made by several signers in sequence. The artwork reproduces Bitcoin transaction text about ownership and signatures. The schemes differ; sequence is a topic overlap."
+      },
+      {
+        "page": 363,
+        "feature": "Clocks and trust",
+        "assessment": "The discussed scheme claims to avoid synchronized clocks and a trusted first signer. The artwork includes clock imagery and transaction text about trust. These are thematic overlaps."
+      }
+    ],
+    "conclusion": "The paper offers an alternative cryptographic reference for the artwork title. It supplies no eighteen chapter instructions, geometric glyph alphabet or word selection rule. Its relevance remains a hypothesis."
   }
 }
