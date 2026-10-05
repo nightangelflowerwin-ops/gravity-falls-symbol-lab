@@ -106,3 +106,8 @@ Choose Research view → Geometric glyph decipherment for four existing plaintex
 ## Brave New World comparison
 
 Research view → Brave New World comparison contains the review of all eighteen chapters, seventeen artwork comparisons, filters for evidence level, source links, literal search counts and downloadable JSON and Markdown. Exact wording, specific parallels, themes and weak leads remain separate. The complete copyrighted text is not redistributed. The title and Order and Stability phrase support a literary reference; no new glyph mapping or extraction rule is accepted. The user confirmed Charly Palmer spelling yields twelve letters, but authorship remains unverified.
+
+
+## Chapter feature extraction
+
+Inside Brave New World comparison, open Read and extract by chapter. The index records 2,627 literal occurrences over six declared categories, preserving repetitions and positions in the earlier normalized chapter bodies. Chapter, category and term filters, pagination, JSON, CSV and review downloads are available offline. All eighteen source hashes and exact spans were checked. Number expressions can be pronouns or ordinals; no occurrence is accepted as a key. Reproduce with tools/index-novel-features.py and the private chapter bodies. The complete novel is not bundled.

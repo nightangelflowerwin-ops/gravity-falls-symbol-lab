@@ -46,6 +46,11 @@
     "book evidence filters",
     "chapter source links",
     "book JSON and Markdown downloads",
-    "book review in combined export"
+    "book review in combined export",
+    "2627 positioned occurrences",
+    "eighteen source hash checks",
+    "exact phrase and direction filters",
+    "occurrence pagination",
+    "chapter extraction JSON and CSV exports"
   ]
 }
