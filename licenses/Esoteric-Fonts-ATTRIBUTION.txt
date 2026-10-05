@@ -1,0 +1,1 @@
+Reference fonts by Joseph H. Peterson, CC BY 4.0, https://esotericarchives.com/fonts/ . Font glyphs rendered and normalized for analysis. Changes: size normalization and bitmap reference crops. https://creativecommons.org/licenses/by/4.0/
