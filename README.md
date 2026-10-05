@@ -90,3 +90,9 @@ Research data lives in src/research-data.json, rendering in src/research-panel.h
 ## Image segregation
 
 The dashboard includes 106 separated inscription glyphs in 49 conservative shape groups, an unresolved object queue, and visual comparisons against 137 reference forms. The family and region filters preserve source positions and previous annotation status. Scores do not accept identities or translations automatically. The complete inventory and glyph atlas download offline. See reports/image-segregation.md for sources and limits.
+
+## Global glyph catalog
+
+Choose Research view → Global glyph catalog for the Unicode 18.0.0 source inventory and historical cipher lead queue. The snapshot contains 172,873 public assigned character records across 175 scripts plus Common and Inherited. Private use and surrogates are excluded; algorithmic character ranges are preserved compactly. Character names, literal characters and U+ code points are searchable offline. The source ZIP includes original files, SHA256 manifests and the Unicode license.
+
+Seventeen additional leads include occult alphabets, Pigpen, manuscript collections, Gravity Falls, alchemical signs and constructed script discovery. These are source leads, not new image identifications. Current image comparisons remain the existing 137 reference forms; newly catalogued systems are not automatically recognized. Every drawn glyph variant or private alphabet cannot be covered by Unicode.

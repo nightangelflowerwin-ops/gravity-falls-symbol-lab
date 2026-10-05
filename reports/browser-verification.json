@@ -28,6 +28,13 @@
     "segregation JSON export",
     "offline atlas download",
     "segregation integrated in research navigation",
-    "combined research export includes segregation"
+    "combined research export includes segregation",
+    "177 Unicode script groups",
+    "175 scripts catalogued",
+    "code point and literal lookup",
+    "algorithmic range lookup",
+    "historical source filter",
+    "offline Unicode snapshot",
+    "global catalog integrated in project"
   ]
 }
