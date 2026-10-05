@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-05",
+  "tests": [
+    {
+      "name": "Upper left · line 1",
+      "key": "ru",
+      "expected": "я:надеюсь:что:сюда",
+      "actual": "я надеюсь что сюда",
+      "accuracy": 1,
+      "kind": "Same-image recognition; templates include this artwork"
+    },
+    {
+      "name": "Upper left · line 2",
+      "key": "ru",
+      "expected": "будут:присылать",
+      "actual": "будут присылать",
+      "accuracy": 1,
+      "kind": "Same-image recognition; templates include this artwork"
+    },
+    {
+      "name": "Upper left · line 3",
+      "key": "ru",
+      "expected": "много:биткоинов",
+      "actual": "много биткоинов",
+      "accuracy": 1,
+      "kind": "Same-image recognition; templates include this artwork"
+    },
+    {
+      "name": "Lower left",
+      "key": "ru",
+      "expected": "сумма:двух:чисел",
+      "actual": "сумма двух чисел",
+      "accuracy": 1,
+      "kind": "Same-image recognition; templates include this artwork"
+    },
+    {
+      "name": "Right border",
+      "key": "ru",
+      "expected": "здесь:зашифрованы:биткоины:на:черный:день:номер:□",
+      "actual": "здесь зашифрованы биткоины на черный день номер □",
+      "accuracy": 1,
+      "kind": "Same-image recognition; templates include this artwork"
+    },
+    {
+      "name": "Above Trump",
+      "key": "bill",
+      "expected": "TUESDAY",
+      "actual": "TUESDAY",
+      "accuracy": 1,
+      "kind": "Same-image recognition; templates include this artwork"
+    },
+    {
+      "name": "Above Trump · chart-only key",
+      "key": "bill",
+      "expected": "TUESDAY",
+      "actual": "MFESDAY",
+      "accuracy": 0.7142857142857143,
+      "kind": "Independent artwork vs alphabet chart"
+    },
+    {
+      "name": "Lower left · held-out crop",
+      "key": "ru",
+      "expected": "сумма:двух:чисел",
+      "actual": "сумма двув чисел",
+      "accuracy": 0.9285714285714286,
+      "kind": "Excludes templates from this crop; same artwork style"
+    },
+    {
+      "name": "Blank image control",
+      "key": "bill",
+      "expected": "",
+      "actual": "",
+      "accuracy": 1,
+      "kind": "No symbols should be invented"
+    }
+  ],
+  "uiChecks": [
+    "sample switching",
+    "English meaning",
+    "dictionary comparison",
+    "manual correction",
+    "dictionary export/import",
+    "invalid import rejection",
+    "rotation round-trip",
+    "mirror round-trip",
+    "image upload and drag crop",
+    "test filtering",
+    "result export",
+    "mobile width 390 without page overflow",
+    "no browser errors"
+  ],
+  "browserErrors": []
+}

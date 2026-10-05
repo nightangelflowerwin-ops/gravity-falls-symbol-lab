@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "calendarControls": 13,
+  "sensitivityComparisons": 360,
+  "checks": [
+    "six source samples reproduced",
+    "method filter",
+    "sensitivity filter",
+    "strict rune transcription",
+    "Ingwaz lookup",
+    "known control",
+    "reverse preserves counts",
+    "JSON export",
+    "390px mobile width",
+    "no browser errors"
+  ]
+}
