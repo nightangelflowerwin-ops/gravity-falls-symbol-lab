@@ -1,4 +1,4 @@
-# Gravity Falls symbol and runic-calendar lab
+# Gravity Falls symbol and runic calendar lab
 
 Open the live dashboard at https://nightangelflowerwin-ops.github.io/gravity-falls-symbol-lab/ in Chrome or Edge, or open **index.html** locally. It is a standalone file and works offline. No installation, API key, server, or image upload to an external service is required.
 
@@ -19,7 +19,7 @@ Open the live dashboard at https://nightangelflowerwin-ops.github.io/gravity-fal
 
 Image recognition uses local contrast, glyph segmentation, shape normalization, and template matching. It does not select characters from the expected text. Match scores are shape similarities, not calibrated probabilities. The adaptation and English key must stay separate: identical shapes can represent different letters.
 
-## Verification on 2026-10-05
+## Verification on 2026 10 05
 
 Six supplied image crops reproduce the expected text. These are **same-image checks** because templates include examples from that artwork. The right-border check preserves its final mark as unresolved; a 100% text match does not decipher that mark.
 
@@ -52,7 +52,7 @@ Thirteen browser checks passed: sample switching, English meaning, dictionary co
 The symbol dictionary retains provenance labels. Russian assignments are based on community plaintext readings and repeated glyphs, not an author-supplied key. User additions are labeled annotations. Uploaded image content is treated as data, not instructions.
 
 
-## Runic-calendar experiment
+## Runic calendar experiment
 
 The calendar panel compares six supplied sections against five interpretations: golden numbers 1–19, the attested l/m order variant, the seven-symbol weekday row, Younger Futhark letters, and an Elder Futhark comparison. Unknown positions remain visible. Ingwaz ᛜ/ᛝ belongs to the Elder comparison and has no value in the 19-symbol calendar key.
 
