@@ -26826,5 +26826,96 @@
       }
     ],
     "conclusion": "The paper offers an alternative cryptographic reference for the artwork title. It supplies no eighteen chapter instructions, geometric glyph alphabet or word selection rule. Its relevance remains a hypothesis."
+  },
+  "casteColourComparison": {
+    "title": "Caste colours compared with the artwork",
+    "method": "Direct visual comparison with the supplied 1600 by 1200 image. Qualitative hue judgments, not calibrated colour measurements. Clothing, lettering and background are classified separately.",
+    "comparisons": [
+      {
+        "caste": "Alpha",
+        "novelColour": "Grey",
+        "source": "https://www.huxley.net/bnw/two.html",
+        "artwork": "Grey clothing on George Floyd and the masked people; grey cameras, tower, monument and central faint lettering.",
+        "match": "Broad visual match",
+        "limit": "Grey covers many unrelated objects and the background; it does not select a unique text group."
+      },
+      {
+        "caste": "Beta",
+        "novelColour": "Mulberry",
+        "source": "https://www.huxley.net/bnw/four.html",
+        "artwork": "Dark reddish lettering in END POLICE BRUTALITY; other reds include protest paint, question marks, flag details and VS.",
+        "match": "Uncertain hue match",
+        "limit": "Dark red is not demonstrably mulberry in this image. Bright red marks must remain distinct from the proposed purple red class."
+      },
+      {
+        "caste": "Gamma",
+        "novelColour": "Green",
+        "source": "https://www.huxley.net/bnw/two.html",
+        "artwork": "STOP KILLING US is dark green. Green and turquoise also appear in the flag, Statue of Liberty and background.",
+        "match": "Clear match for dark green text; ambiguous for turquoise objects",
+        "limit": "The novel describes Beta Lenina wearing green in Chapter 4, so every green object cannot automatically be assigned Gamma."
+      },
+      {
+        "caste": "Delta",
+        "novelColour": "Khaki",
+        "source": "https://www.huxley.net/bnw/two.html",
+        "artwork": "Biden’s jacket is brown with olive tones; the left pedestal and hair are tan or gold.",
+        "match": "Possible clothing resemblance only",
+        "limit": "No clearly khaki word group is identifiable. Brown, tan and gold are not silently treated as khaki."
+      },
+      {
+        "caste": "Epsilon",
+        "novelColour": "Black",
+        "source": "https://www.huxley.net/bnw/two.html",
+        "artwork": "BLACK LIVES MATTER and NOT ONE MORE; border glyphs, STOP, dates and transaction lettering also appear black.",
+        "match": "Clear broad match",
+        "limit": "Black contains several separate inscriptions. Their reading order is not determined by the caste colour."
+      }
+    ],
+    "unmatched": [
+      "Blue NO JUSTICE NO PEACE",
+      "Yellow Order and stability and facial tracking boxes",
+      "Bright red question marks and monument paint",
+      "Turquoise or cyan Statue of Liberty and tower background"
+    ],
+    "conclusion": "Green, black and grey have visible overlaps. Mulberry and khaki are uncertain. The five caste colours do not account for all prominent coloured text. The central Bitcoin word lettering is predominantly black, so the palette does not visibly divide those words into five classes. No colour based word order or hidden phrase has been established.",
+    "candidateTextGroups": [
+      {
+        "colour": "Black",
+        "text": [
+          "BLACK LIVES MATTER",
+          "NOT ONE MORE"
+        ],
+        "status": "Observed; separate black inscriptions also present"
+      },
+      {
+        "colour": "Dark green",
+        "text": [
+          "STOP KILLING US"
+        ],
+        "status": "Observed"
+      },
+      {
+        "colour": "Dark reddish",
+        "text": [
+          "END POLICE BRUTALITY"
+        ],
+        "status": "Observed hue; Beta assignment uncertain"
+      },
+      {
+        "colour": "Blue",
+        "text": [
+          "NO JUSTICE NO PEACE"
+        ],
+        "status": "Observed; no standard caste colour assignment"
+      },
+      {
+        "colour": "Yellow",
+        "text": [
+          "Order and stability"
+        ],
+        "status": "Observed; no standard caste colour assignment"
+      }
+    ]
   }
 }
